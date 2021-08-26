@@ -1,0 +1,51 @@
+#!/usr/bin/env python
+import git_class_repo_wrangler as lib
+import argh
+#import tqdm
+
+def status():
+    """Print out the lists of invitees as well as accepted collaborators"""
+    lib.get_status()
+
+def roster():
+    """Returns the class roster from file"""
+    return(str(lib.get_roster()))
+
+def invite(roster : 'path to roster file' ='roster.csv', users:'flag invite user(s) by gitname'=False, *invitees:'space separated gitnames or a gitname, use with -u'):
+    """Allows you to invite the class roster by default or specify a roster path.
+    Using --users, you can invite individuals by github username or more than one by list separated with spaces"""
+    if users:
+        lib.invite_users(invitees)
+        return "invite commplete"
+    else:
+        git_users= lib.get_roster(roster)['git-username'].to_list()
+        lib.invite_users(git_users)
+        return "invite commplete"
+
+def files(teams:'flag make team files'=False, conflict:'flag make files conclict'=False):
+    """Creates Files for solo by default, deleting existing files.  Swtiches modify the behavior to generate
+     conflicts (--conflict) or to create/conflict team files instead (--teams)."""
+    if not teams:
+        if conflict:
+            lib.make_solo_files_conclict()
+            return "Files modified"
+        else:
+            lib.create_solo_files()
+            return "Files Created"
+    else:
+        if conflict:
+            lib.make_team_files_conflict()
+            return "Files modified"
+        else:
+            lib.make_team_files()
+            return "Files Created"
+
+# assembling:
+
+parser = argh.ArghParser()
+parser.add_commands([status, roster, invite, files])
+parser.set_default_command(status) 
+
+# dispatching:
+if __name__ == '__main__':
+    parser.dispatch()
