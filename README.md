@@ -3,17 +3,17 @@ This tools is intended to help remove some of the tedium from setting up and exe
 
 ## What it can do.
     * invite class roster to repo
-    * create individual working file for user in solo directory
-      
-    * can change number of known lines in all team files to make assist with making a conflict they have to resolve.
+    * create individual working file for user in solo directory      
+    * can change number of known lines in all solo files to make a conflict they have to resolve.
 
 
 ## What it should do.
 ???
  * divide class into two person teams and one 3 person team if necessary
-        * create a team file on the teams directory using a combination of their names 
-        
-## required files
+ * create a team file on the teams directory using a combination of their names 
+ * can change number of known lines in all team files to make a conflict they have to resolve. 
+     
+## Required files
 * You must create a personal access token and store it in file called ".TOKEN" in the root directory of the repository on your local machine. 
 * You should also create a .REPO file that contains the path to the repo you want to wrangle. This is part of the git ignore and should never be checked in for any reason.
 * You must add a roster.csv file with the columns: git-username,first-name,last-name
@@ -28,14 +28,3 @@ You need argh.
     
 You need pandas
     pip install pandas
-## What it can do.
-    * invite class roster to repo
-    * create individual working file for user in solo directory
-      
-    * can change number of known lines in all team files to make assist with making a conflict they have to resolve.
-
-
-## What it should do.
-???
- * divide class into two person teams and one 3 person team if necessary
-        * create a team file on the teams directory using a combination of their names 
