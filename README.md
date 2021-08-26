@@ -2,9 +2,9 @@
 This tools is intended to help remove some of the tedium from setting up and executing the conflict resolution exercises in the carpentries GIT lesson.This is a commandline tools that uses argh.  You can get help for the basic and sub commands by using the --help flag.  With appropriate permission you shoud be able to run the script using ./gcrw
 
 ## What it can do.
-    * invite class roster to repo
-    * create individual working file for user in solo directory      
-    * can change number of known lines in all solo files to make a conflict they have to resolve.
+* invite class roster to repo
+* create individual working file for user in solo directory      
+* can change number of known lines in all solo files to make a conflict they have to resolve.
 
 
 ## What it should do.
@@ -19,12 +19,13 @@ This tools is intended to help remove some of the tedium from setting up and exe
 * You must add a roster.csv file with the columns: git-username,first-name,last-name
 
 ## Dependencies
-You need pygithub. options:
-    conda install -c conda-forge pygithub 
-    pip install PyGithub
+You need pygithub. 
+   `conda install -c conda-forge pygithub `
+or
+   `pip install PyGithub`
 
 You need argh.
-    pip install argh
+   `pip install argh`
     
 You need pandas
-    pip install pandas
+   `pip install pandas`
