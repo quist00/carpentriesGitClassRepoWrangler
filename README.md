@@ -1,5 +1,7 @@
 # gitClassRepoWrangler
-you must create a personal access token and store it in file called ".TOKEN" in the root directory of the repository on your local machine. You should also create a .REPO file that contains the path to the repo you want to wrangle. This is part of the git ignore and should never be checked in for any reason.
+* You must create a personal access token and store it in file called ".TOKEN" in the root directory of the repository on your local machine. 
+* You should also create a .REPO file that contains the path to the repo you want to wrangle. This is part of the git ignore and should never be checked in for any reason.
+* You must add a roster.csv file with the columns: git-username,first-name,last-name
 
 ## Dependencies
 You need pygithub. options:
