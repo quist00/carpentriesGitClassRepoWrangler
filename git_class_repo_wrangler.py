@@ -74,9 +74,9 @@ def create_solo_files():
         content = f.read()
 
     for u in git_users:
-        repo.create_file('solo/{}.txt'.format(u), 'individual file for{}'.format(u), content)
+        repo.create_file('solo/{}.txt'.format(u), 'individual file for {}'.format(u), content)
 
-    repo.create_file('solo/{}.txt'.format('quist00'), 'individual file for{}'.format('quist00'), content)
+    # TODO: revise to make it configurable repo.create_file('solo/{}.txt'.format('quist00'), 'individual file for {}'.format('quist00'), content)
 
 def make_solo_files_conclict():
 # put each solo file into a conflicting state
