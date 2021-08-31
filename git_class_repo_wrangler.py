@@ -68,7 +68,7 @@ def invite_users(user_list):
 
 def create_solo_files():
 #create haiku file for each individual learner, this will not work if file exists
-    delete_solo_files()
+    #delete_solo_files()
     
     repo = get_repo()
     roster = get_roster()
@@ -134,9 +134,12 @@ def make_team_files():
         print("you must first create the teams")
         return
     #first clear out all team files
-    delete_team_files()
+    #delete_team_files()
+
 
     repo = get_repo()
+    
+#{'content': ContentFile(path="example/test.txt"), 'commit': Commit(sha="5b584cf6d32d960bb7bee8ce94f161d939aec377")}
     content = ''
     with open('haikus.txt','r') as f:
         content = f.read()
@@ -168,6 +171,8 @@ def delete_solo_files():
     for content_file in contents:
         repo.delete_file(content_file.path, "remove file from solo folder", content_file.sha, branch="main")
 
+    #repo.create_file("/solo/.keep_folder", "empty file to help create the directory", "", branch="main")
+
 def delete_team_files():
 # delete all files in teams
     repo = get_repo()
@@ -175,7 +180,7 @@ def delete_team_files():
     for content_file in contents:
         repo.delete_file(content_file.path, "remove file from teams folder", content_file.sha, branch="main")
 
-
+    #repo.create_file("/teams/.keep_folder", "empty file to help create the directory", "", branch="main")
 
 
 #see all my repos

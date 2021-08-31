@@ -22,13 +22,15 @@ def invite(roster : 'path to roster file' ='roster.csv', users:'flag invite user
         lib.invite_users(git_users)
         return "invite commplete"
 
-def files(teams:'flag make team files'=False, conflict:'flag make files conclict'=False):
+def files(teams:'flag modifies all other behaviors so they impact teams instead'=False, conflict:'flag make files conclict'=False, delete:'flag to delete all files in either team(--teams) or solo directory '=False):
     """Creates Files for solo by default, deleting existing files.  Swtiches modify the behavior to generate
      conflicts (--conflict) or to create/conflict team files instead (--teams)."""
     if not teams:
         if conflict:
             lib.make_solo_files_conclict()
             return "Files modified"
+        elif delete:
+            lib.delete_solo_files()
         else:
             lib.create_solo_files()
             return "Files Created"
@@ -36,6 +38,8 @@ def files(teams:'flag make team files'=False, conflict:'flag make files conclict
         if conflict:
             lib.make_team_files_conflict()
             return "Files modified"
+        elif delete:
+            lib.delete_team_files()
         else:
             lib.make_team_files()
             return "Files Created"
