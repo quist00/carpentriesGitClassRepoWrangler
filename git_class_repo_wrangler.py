@@ -4,6 +4,7 @@ from github import Github
 import random
 #import time
 import re
+import pickle
 
 
 def get_repo():
@@ -104,21 +105,38 @@ def divide_chunks(l, n):
     for i in range(0, len(l), n):  
         yield l[i:i + n] 
 
+def get_teams():
+    teams = pickle.load( open( ".teams", "rb" ) )
+    print(teams)
+
 def make_teams():
 #randomize list
+    roster = get_roster()
+    git_users = roster['git-username'].to_list()
     random.shuffle(git_users)
 #divide into teams
     teams = list(divide_chunks(git_users, 2))
 
 # if learners is odd make last team a team of 3
-    if len(teams)%2 == 1:
-        temp = teams.pop()
-        teams[-1] = teams[-1] + temp
+    if len(git_users)%2 == 1:
+        odd = teams.pop()
+        more_the_merrier = teams.pop()
+        more_the_merrier.append(odd[0])
+        teams.append(more_the_merrier)
 
+    pickle.dump( teams, open( ".teams", "wb" ) )
     print(teams)
  
 def make_team_files():
 # make a file for each team based on their usernames
+    teams = pickle.load( open( ".teams", "rb" ) )   
+    if not teams:
+        print("you must first create the teams")
+        return
+    #first clear out all team files
+    delete_team_files()
+
+    repo = get_repo()
     content = ''
     with open('haikus.txt','r') as f:
         content = f.read()
@@ -139,7 +157,7 @@ def make_team_files_conflict():
         #regex on file bytes requires match in file bytes. Too hard to write so convert to string.
         file_as_string = file_bytes.decode('utf-8')
         #replace all the author lines with a stock phrase
-        updated_contents= re.sub(r'###.*?\n',conflict_string,file_as_string)
+        updated_contents= re.sub(r'― Kobayashi Issa.*?\n',conflict_string,file_as_string)
         #print(updated_contents)
         repo.update_file(content_file.path, "force conflict with {}".format(content_file.name), updated_contents, content_file.sha, branch="main")
 
@@ -152,6 +170,7 @@ def delete_solo_files():
 
 def delete_team_files():
 # delete all files in teams
+    repo = get_repo()
     contents = repo.get_contents("/teams")
     for content_file in contents:
         repo.delete_file(content_file.path, "remove file from teams folder", content_file.sha, branch="main")

@@ -40,10 +40,16 @@ def files(teams:'flag make team files'=False, conflict:'flag make files conclict
             lib.make_team_files()
             return "Files Created"
 
+def teams(make:'flag make team'=False):
+    """Displays teams.  --make will create a team"""
+    if make:
+        lib.make_teams()
+    else:
+        lib.get_teams()
 # assembling:
 
 parser = argh.ArghParser()
-parser.add_commands([status, roster, invite, files])
+parser.add_commands([status, roster, invite, files, teams])
 parser.set_default_command(status) 
 
 # dispatching:
