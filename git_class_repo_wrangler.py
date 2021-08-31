@@ -25,12 +25,15 @@ def get_status():
 #print out pending invites and collaborators
     repo = get_repo()
     print("Invites")
-    invitees = [i.invitee for i in repo.get_pending_invitations()]
-        #invitees.append(i.invitee)
-    print(invitees.sort())
-
+    print("*******************************")
+    invitations = repo.get_pending_invitations()
+    logins_invite = [i.invitee.login for i in invitations]
+    names_invite = [i.invitee.name for i in invitations]
+    invitees_df = pd.DataFrame.from_dict({'login':logins_invite, 'name':names_invite})
+    print(invitees_df.set_index('login').sort_index())
 #print out collaborators
-    print("\nCollaborators")
+    print("\n\nCollaborators")
+    print("*******************************")
     collaborators = repo.get_collaborators()
     logins = [c.login for c in collaborators]
     names = [c.name for c in collaborators]
@@ -59,8 +62,8 @@ def invite_users(user_list):
 #send invites to list of git usernames in roster file
     for u in user_list:
         print('inviting {}\n'.format(u))
-        #get_repo().add_to_collaborators(u,'push')
-
+        get_repo().add_to_collaborators(u,'push')
+    print("Notificaitons may be delayed, have users check https://github.com/"+ get_repo_name() +"/invitations")
 
 def create_solo_files():
 #create haiku file for each individual learner, this will not work if file exists
