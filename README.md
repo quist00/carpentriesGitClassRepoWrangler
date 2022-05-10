@@ -1,7 +1,7 @@
 # gitClassRepoWrangler
 * This tools is intended to help remove some of the tedium from setting up and executing the conflict resolution exercises in the carpentries GIT lessons, in particular http://swcarpentry.github.io/git-novice/09-conflict/index.html.
 * This is a commandline tools that uses argh.  You can get help for the basic and sub commands by using the --help flag.  
-* With appropriate permissions and depencies, you shoud be able to run the script using ./gcrw
+* With appropriate permissions and depencies, you should be able to run the script using ./gcrw
 
 ## What it can do.
 * invite class roster to repo
