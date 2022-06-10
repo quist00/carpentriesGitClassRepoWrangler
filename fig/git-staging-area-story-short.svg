@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 622 218" style="enable-background:new 0 0 622 218;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#B5B5B5;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st1{fill:none;}
+	.st2{fill:#DCDEE0;}
+	.st3{fill:none;stroke:#85888D;stroke-width:2;}
+	.st4{fill:none;stroke:#6FBE44;stroke-width:2;}
+	.st5{fill:url(#SVGID_1_);stroke:#231F20;stroke-miterlimit:10;}
+	.st6{fill:#FFFFFF;stroke:#231F20;stroke-miterlimit:10;}
+	.st7{fill:#45BEEE;}
+	.st8{fill:url(#SVGID_00000032634203674552963020000011091135732047059354_);stroke:#231F20;stroke-miterlimit:10;}
+	.st9{fill:none;stroke:#000000;stroke-width:2;}
+	.st10{fill:url(#SVGID_00000047757261454443930690000005818405036480490161_);stroke:#231F20;stroke-miterlimit:10;}
+	.st11{fill:url(#SVGID_00000003827037900734985540000017784346815562657951_);stroke:#231F20;stroke-miterlimit:10;}
+	.st12{fill:url(#SVGID_00000178889340563270479800000014908239391411037339_);stroke:#231F20;stroke-miterlimit:10;}
+	.st13{fill:url(#SVGID_00000098925053752317352860000012029882886693798043_);stroke:#231F20;stroke-miterlimit:10;}
+	.st14{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st15{fill:none;stroke:#70BF41;stroke-width:2;}
+	.st16{fill:url(#SVGID_00000069383258673509832750000011332556349438546082_);stroke:#231F20;stroke-miterlimit:10;}
+	.st17{font-family:'ArialMT';}
+	.st18{font-size:18px;}
+	.st19{font-family:'Helvetica';}
+	.st20{font-size:12px;}
+	.st21{font-family:'MyriadPro-Regular';}
+	.st22{fill:url(#SVGID_00000163774087899298539790000009028071428282734760_);stroke:#231F20;stroke-miterlimit:10;}
+	.st23{fill:url(#SVGID_00000139280068445325793070000016446311465355822248_);stroke:#231F20;stroke-miterlimit:10;}
+	.st24{fill:none;stroke:#231F20;stroke-width:2;}
+	.st25{fill:url(#SVGID_00000027600534468129175380000015471075926979438771_);stroke:#231F20;stroke-miterlimit:10;}
+	.st26{fill:url(#SVGID_00000158744531938566147710000014386557168132856504_);stroke:#231F20;stroke-miterlimit:10;}
+	.st27{fill:url(#SVGID_00000155838371947166876150000009409928308287713674_);stroke:#231F20;stroke-miterlimit:10;}
+	.st28{fill:#231F20;}
+	.st29{font-size:24px;}
+</style>
+<g id="Layer_5">
+	<path class="st0" d="M598-453c0-8.3-6.7-15-15-15H198c-8.3,0-15,6.7-15,15v167c0,8.3,6.7,15,15,15h385c8.3,0,15-6.7,15-15V-453z"/>
+	<rect x="197" y="-457" class="st1" width="70" height="28"/>
+	<text transform="matrix(1 0 0 1 197 -444.5801)" class="st17 st18">.git</text>
+</g>
+<rect x="229" y="-310" class="st1" width="147" height="17"/>
+<text transform="matrix(1 0 0 1 269.4766 -301.3721)" class="st19 st20">staging area</text>
+<rect x="464.8" y="-297" class="st1" width="147" height="17"/>
+<text transform="matrix(1 0 0 1 511.9414 -288.3721)" class="st19 st20">repository</text>
+<rect x="13" y="-467" class="st1" width="140" height="23"/>
+<text transform="matrix(1 0 0 1 13 -458.48)" class="st21 st20">Working Directory</text>
+<g id="Layer_5_00000049199391134790861630000004330526260849335936_">
+	<path class="st0" d="M1240-453c0-8.3-6.7-15-15-15H840c-8.3,0-15,6.7-15,15v167c0,8.3,6.7,15,15,15h385c8.3,0,15-6.7,15-15V-453z"
+		/>
+	<rect x="839" y="-457" class="st1" width="70" height="28"/>
+	<text transform="matrix(1 0 0 1 839 -444.5801)" class="st17 st18">.git</text>
+</g>
+<rect x="871" y="-310" class="st1" width="147" height="17"/>
+<text transform="matrix(1 0 0 1 911.4766 -301.3721)" class="st19 st20">staging area</text>
+<rect x="1106.8" y="-297" class="st1" width="147" height="17"/>
+<text transform="matrix(1 0 0 1 1153.9414 -288.3721)" class="st19 st20">repository</text>
+<rect x="655" y="-467" class="st1" width="140" height="23"/>
+<text transform="matrix(1 0 0 1 655 -458.48)" class="st21 st20">Working Directory</text>
+<g>
+	<rect x="661.5" y="-433.5" class="st2" width="100" height="128"/>
+	<rect x="661.5" y="-433.5" class="st3" width="100" height="128"/>
+</g>
+<g>
+	<line class="st4" x1="674.5" y1="-409.3" x2="748.5" y2="-409.3"/>
+	<line class="st4" x1="674.5" y1="-403.3" x2="748.5" y2="-403.3"/>
+	<line class="st4" x1="674.5" y1="-397.3" x2="748.5" y2="-397.3"/>
+</g>
+<g>
+	<g>
+		
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="944.499" y1="54.6678" x2="944.499" y2="-0.5792" gradientTransform="matrix(1 0 0 -1 0 -334)">
+			<stop  offset="9.819999e-02" style="stop-color:#C4C4C4"/>
+			<stop  offset="0.5326" style="stop-color:#686868"/>
+			<stop  offset="1" style="stop-color:#000000"/>
+		</linearGradient>
+		<path class="st5" d="M894.5-334.4c0-9.3,22.4-16.8,50-16.8c27.6,0,50,7.5,50,16.8v1c0,0,0-2.1,0-3.1c0-1,0-35.7,0-35.7v0.4
+			c0-9.3-22.4-16.8-50-16.8c-27.6,0-50,7.5-50,16.8v-0.4c0,0,0,34.5,0,35.7c0,1.2,0,3.1,0,3.1V-334.4z"/>
+		<g>
+			<path class="st6" d="M994.5-372.3c0,0,0,34.7,0,35.7c0,1,0.4,3.1,0.4,3.1c0,9.3-22.8,16.8-50.4,16.8s-50.4-7.5-50.4-16.8
+				c0,0,0.4-1.9,0.4-3.1c0-1.2,0-35.7,0-35.7c0,9.3,22.4,16.8,50,16.8C972.1-355.5,994.5-363,994.5-372.3z"/>
+		</g>
+	</g>
+	<g>
+		<line class="st4" x1="907.5" y1="-344.5" x2="981.5" y2="-344.5"/>
+		<line class="st4" x1="907.5" y1="-338.5" x2="981.5" y2="-338.5"/>
+		<line class="st4" x1="907.5" y1="-332.5" x2="981.5" y2="-332.5"/>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="775.4" y="-384.4" class="st7" width="46" height="30.6"/>
+		<polygon class="st7" points="818,-399.6 818,-339.4 858.6,-370 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 788.5759 -366.7839)" class="st17 st20">git add</text>
+</g>
+<g>
+	
+		<linearGradient id="SVGID_00000180337396218554242790000009786027601236649361_" gradientUnits="userSpaceOnUse" x1="1177.8989" y1="55.775" x2="1177.8989" y2="0.528" gradientTransform="matrix(1 0 0 -1 0 -334)">
+		<stop  offset="9.819999e-02" style="stop-color:#C4C4C4"/>
+		<stop  offset="0.5326" style="stop-color:#686868"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_00000180337396218554242790000009786027601236649361_);stroke:#231F20;stroke-miterlimit:10;" d="
+		M1127.9-335.6c0-9.3,22.4-16.8,50-16.8c27.6,0,50,7.5,50,16.8v1c0,0,0-2.1,0-3.1c0-1,0-35.7,0-35.7v0.4c0-9.3-22.4-16.8-50-16.8
+		c-27.6,0-50,7.5-50,16.8v-0.4c0,0,0,34.5,0,35.7c0,1.2,0,3.1,0,3.1V-335.6z"/>
+	<g>
+		<path class="st6" d="M1227.9-373.4c0,0,0,34.7,0,35.7c0,1,0.4,3.1,0.4,3.1c0,9.3-22.8,16.8-50.4,16.8s-50.4-7.5-50.4-16.8
+			c0,0,0.4-1.9,0.4-3.1c0-1.2,0-35.7,0-35.7c0,9.3,22.4,16.8,50,16.8S1227.9-364.1,1227.9-373.4z"/>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="1018" y="-384.4" class="st7" width="46" height="30.6"/>
+		<polygon class="st7" points="1060.6,-399.6 1060.6,-339.4 1101.1,-370 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 1023.5127 -366.7839)" class="st17 st20">git commit</text>
+</g>
+<g>
+	<line class="st9" x1="1140.9" y1="-345.4" x2="1214.9" y2="-345.4"/>
+	<line class="st9" x1="1140.9" y1="-339.4" x2="1214.9" y2="-339.4"/>
+	<line class="st9" x1="1140.9" y1="-333.4" x2="1214.9" y2="-333.4"/>
+</g>
+<g id="Layer_5_00000168800307451116985290000010511921497985917582_">
+	<path class="st0" d="M598-215c0-8.3-6.7-15-15-15H198c-8.3,0-15,6.7-15,15v167c0,8.3,6.7,15,15,15h385c8.3,0,15-6.7,15-15V-215z"/>
+	<rect x="197" y="-219" class="st1" width="70" height="28"/>
+	<text transform="matrix(1 0 0 1 197 -206.5801)" class="st17 st18">.git</text>
+</g>
+<rect x="229" y="-72" class="st1" width="147" height="17"/>
+<text transform="matrix(1 0 0 1 269.4766 -63.3721)" class="st19 st20">staging area</text>
+<rect x="464.8" y="-59" class="st1" width="147" height="17"/>
+<text transform="matrix(1 0 0 1 511.9414 -50.3721)" class="st19 st20">repository</text>
+<rect x="13" y="-229" class="st1" width="140" height="23"/>
+<text transform="matrix(1 0 0 1 13 -220.48)" class="st21 st20">Working Directory</text>
+<g>
+	<rect x="19.5" y="-195.5" class="st2" width="100" height="128"/>
+	<rect x="19.5" y="-195.5" class="st3" width="100" height="128"/>
+</g>
+<g>
+	
+		<linearGradient id="SVGID_00000112599208761215887100000015074088058168347055_" gradientUnits="userSpaceOnUse" x1="302.499" y1="-183.3322" x2="302.499" y2="-238.5792" gradientTransform="matrix(1 0 0 -1 0 -334)">
+		<stop  offset="9.819999e-02" style="stop-color:#C4C4C4"/>
+		<stop  offset="0.5326" style="stop-color:#686868"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_00000112599208761215887100000015074088058168347055_);stroke:#231F20;stroke-miterlimit:10;" d="
+		M252.5-96.4c0-9.3,22.4-16.8,50-16.8s50,7.5,50,16.8v1c0,0,0-2.1,0-3.1c0-1,0-35.7,0-35.7v0.4c0-9.3-22.4-16.8-50-16.8
+		s-50,7.5-50,16.8v-0.4c0,0,0,34.5,0,35.7c0,1.2,0,3.1,0,3.1V-96.4z"/>
+	<g>
+		<path class="st6" d="M352.5-134.3c0,0,0,34.7,0,35.7c0,1,0.4,3.1,0.4,3.1c0,9.3-22.8,16.8-50.4,16.8s-50.4-7.5-50.4-16.8
+			c0,0,0.4-1.9,0.4-3.1c0-1.2,0-35.7,0-35.7c0,9.3,22.4,16.8,50,16.8S352.5-125,352.5-134.3z"/>
+	</g>
+</g>
+<g>
+	
+		<linearGradient id="SVGID_00000031911473248309678030000014220411946437869211_" gradientUnits="userSpaceOnUse" x1="535.8989" y1="-182.225" x2="535.8989" y2="-237.472" gradientTransform="matrix(1 0 0 -1 0 -334)">
+		<stop  offset="9.819999e-02" style="stop-color:#C4C4C4"/>
+		<stop  offset="0.5326" style="stop-color:#686868"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_00000031911473248309678030000014220411946437869211_);stroke:#231F20;stroke-miterlimit:10;" d="
+		M485.9-97.6c0-9.3,22.4-16.8,50-16.8s50,7.5,50,16.8v1c0,0,0-2.1,0-3.1c0-1,0-35.7,0-35.7v0.4c0-9.3-22.4-16.8-50-16.8
+		c-27.6,0-50,7.5-50,16.8v-0.4c0,0,0,34.5,0,35.7c0,1.2,0,3.1,0,3.1V-97.6z"/>
+	<g>
+		<path class="st6" d="M585.9-135.4c0,0,0,34.7,0,35.7c0,1,0.4,3.1,0.4,3.1c0,9.3-22.8,16.8-50.4,16.8c-27.6,0-50.4-7.5-50.4-16.8
+			c0,0,0.4-1.9,0.4-3.1c0-1.2,0-35.7,0-35.7c0,9.3,22.4,16.8,50,16.8S585.9-126.1,585.9-135.4z"/>
+	</g>
+</g>
+<g>
+	<line class="st9" x1="498.9" y1="-107.4" x2="572.9" y2="-107.4"/>
+	<line class="st9" x1="498.9" y1="-101.4" x2="572.9" y2="-101.4"/>
+	<line class="st9" x1="498.9" y1="-95.4" x2="572.9" y2="-95.4"/>
+</g>
+<g>
+	<line class="st9" x1="265.5" y1="-107.4" x2="339.5" y2="-107.4"/>
+	<line class="st9" x1="265.5" y1="-101.4" x2="339.5" y2="-101.4"/>
+	<line class="st9" x1="265.5" y1="-95.4" x2="339.5" y2="-95.4"/>
+</g>
+<g>
+	<line class="st9" x1="32.5" y1="-173.6" x2="106.5" y2="-173.6"/>
+	<line class="st9" x1="32.5" y1="-167.6" x2="106.5" y2="-167.6"/>
+	<line class="st9" x1="32.5" y1="-161.6" x2="106.5" y2="-161.6"/>
+</g>
+<g id="Layer_5_00000075125932499272010290000011441166132591519876_">
+	<path class="st0" d="M1240-215c0-8.3-6.7-15-15-15H840c-8.3,0-15,6.7-15,15v167c0,8.3,6.7,15,15,15h385c8.3,0,15-6.7,15-15V-215z"
+		/>
+	<rect x="839" y="-219" class="st1" width="70" height="28"/>
+	<text transform="matrix(1 0 0 1 839 -206.5801)" class="st17 st18">.git</text>
+</g>
+<rect x="871" y="-72" class="st1" width="147" height="17"/>
+<text transform="matrix(1 0 0 1 911.4766 -63.3721)" class="st19 st20">staging area</text>
+<rect x="1106.8" y="-59" class="st1" width="147" height="17"/>
+<text transform="matrix(1 0 0 1 1153.9414 -50.3721)" class="st19 st20">repository</text>
+<rect x="655" y="-229" class="st1" width="140" height="23"/>
+<text transform="matrix(1 0 0 1 655 -220.48)" class="st21 st20">Working Directory</text>
+<g>
+	
+		<linearGradient id="SVGID_00000036945978948540113450000003840873486607246210_" gradientUnits="userSpaceOnUse" x1="944.499" y1="-183.3322" x2="944.499" y2="-238.5792" gradientTransform="matrix(1 0 0 -1 0 -334)">
+		<stop  offset="9.819999e-02" style="stop-color:#C4C4C4"/>
+		<stop  offset="0.5326" style="stop-color:#686868"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_00000036945978948540113450000003840873486607246210_);stroke:#231F20;stroke-miterlimit:10;" d="
+		M894.5-96.4c0-9.3,22.4-16.8,50-16.8c27.6,0,50,7.5,50,16.8v1c0,0,0-2.1,0-3.1c0-1,0-35.7,0-35.7v0.4c0-9.3-22.4-16.8-50-16.8
+		c-27.6,0-50,7.5-50,16.8v-0.4c0,0,0,34.5,0,35.7c0,1.2,0,3.1,0,3.1V-96.4z"/>
+	<g>
+		<path class="st6" d="M994.5-134.3c0,0,0,34.7,0,35.7c0,1,0.4,3.1,0.4,3.1c0,9.3-22.8,16.8-50.4,16.8s-50.4-7.5-50.4-16.8
+			c0,0,0.4-1.9,0.4-3.1c0-1.2,0-35.7,0-35.7c0,9.3,22.4,16.8,50,16.8C972.1-117.5,994.5-125,994.5-134.3z"/>
+	</g>
+</g>
+<g>
+	
+		<linearGradient id="SVGID_00000078728940477110095940000018255225334671905209_" gradientUnits="userSpaceOnUse" x1="1177.8989" y1="-182.225" x2="1177.8989" y2="-237.472" gradientTransform="matrix(1 0 0 -1 0 -334)">
+		<stop  offset="9.819999e-02" style="stop-color:#C4C4C4"/>
+		<stop  offset="0.5326" style="stop-color:#686868"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_00000078728940477110095940000018255225334671905209_);stroke:#231F20;stroke-miterlimit:10;" d="
+		M1127.9-97.6c0-9.3,22.4-16.8,50-16.8c27.6,0,50,7.5,50,16.8v1c0,0,0-2.1,0-3.1c0-1,0-35.7,0-35.7v0.4c0-9.3-22.4-16.8-50-16.8
+		c-27.6,0-50,7.5-50,16.8v-0.4c0,0,0,34.5,0,35.7c0,1.2,0,3.1,0,3.1V-97.6z"/>
+	<g>
+		<path class="st6" d="M1227.9-135.4c0,0,0,34.7,0,35.7c0,1,0.4,3.1,0.4,3.1c0,9.3-22.8,16.8-50.4,16.8s-50.4-7.5-50.4-16.8
+			c0,0,0.4-1.9,0.4-3.1c0-1.2,0-35.7,0-35.7c0,9.3,22.4,16.8,50,16.8S1227.9-126.1,1227.9-135.4z"/>
+	</g>
+</g>
+<g>
+	<line class="st9" x1="1140.9" y1="-107.4" x2="1214.9" y2="-107.4"/>
+	<line class="st9" x1="1140.9" y1="-101.4" x2="1214.9" y2="-101.4"/>
+	<line class="st9" x1="1140.9" y1="-95.4" x2="1214.9" y2="-95.4"/>
+</g>
+<g>
+	<line class="st9" x1="907.5" y1="-107.4" x2="981.5" y2="-107.4"/>
+	<line class="st9" x1="907.5" y1="-101.4" x2="981.5" y2="-101.4"/>
+	<line class="st9" x1="907.5" y1="-95.4" x2="981.5" y2="-95.4"/>
+</g>
+<rect x="661.5" y="-206" class="st2" width="100" height="128"/>
+<rect x="661.5" y="-206" class="st3" width="100" height="128"/>
+<line class="st9" x1="674.5" y1="-186" x2="748.5" y2="-186"/>
+<line class="st9" x1="674.5" y1="-180" x2="748.5" y2="-180"/>
+<line class="st9" x1="674.5" y1="-174" x2="748.5" y2="-174"/>
+<g>
+	<g>
+		<rect x="779.7" y="-156.9" class="st7" width="46" height="30.6"/>
+		<polygon class="st7" points="822.3,-172.1 822.3,-111.9 862.9,-142.5 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 792.8325 -139.2839)" class="st17 st20">git add</text>
+</g>
+<g>
+	<polygon class="st14" points="980.7,-141.5 921.4,-141.5 908.3,-127 967.6,-127 	"/>
+	<line class="st15" x1="921.4" y1="-135.6" x2="970.2" y2="-135.6"/>
+</g>
+<g>
+	<g>
+		<rect x="1019.6" y="-156.9" class="st7" width="46" height="30.6"/>
+		<polygon class="st7" points="1062.2,-172.1 1062.2,-111.9 1102.8,-142.5 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 1025.1387 -139.2839)" class="st17 st20">git commit</text>
+</g>
+<g>
+	
+		<linearGradient id="SVGID_00000094576376557281242890000009074668663665960625_" gradientUnits="userSpaceOnUse" x1="1177.8989" y1="-144.784" x2="1177.8989" y2="-200.031" gradientTransform="matrix(1 0 0 -1 0 -334)">
+		<stop  offset="9.819999e-02" style="stop-color:#C4C4C4"/>
+		<stop  offset="0.5326" style="stop-color:#686868"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_00000094576376557281242890000009074668663665960625_);stroke:#231F20;stroke-miterlimit:10;" d="
+		M1127.9-135c0-9.3,22.4-16.8,50-16.8c27.6,0,50,7.5,50,16.8v1c0,0,0-2.1,0-3.1c0-1,0-35.7,0-35.7v0.4c0-9.3-22.4-16.8-50-16.8
+		c-27.6,0-50,7.5-50,16.8v-0.4c0,0,0,34.5,0,35.7c0,1.2,0,3.1,0,3.1V-135z"/>
+	<g>
+		<path class="st6" d="M1227.9-172.8c0,0,0,34.7,0,35.7c0,1,0.4,3.1,0.4,3.1c0,9.3-22.8,16.8-50.4,16.8s-50.4-7.5-50.4-16.8
+			c0,0,0.4-1.9,0.4-3.1c0-1.2,0-35.7,0-35.7c0,9.3,22.4,16.8,50,16.8S1227.9-163.6,1227.9-172.8z"/>
+	</g>
+</g>
+<g>
+	<polygon class="st14" points="1214.1,-183.7 1154.8,-183.7 1141.7,-169.2 1201,-169.2 	"/>
+	<line class="st15" x1="1154.8" y1="-177.8" x2="1203.6" y2="-177.8"/>
+</g>
+<g>
+	<line class="st9" x1="1143.3" y1="-145.3" x2="1217.3" y2="-145.3"/>
+	<line class="st9" x1="1143.3" y1="-139.3" x2="1217.3" y2="-139.3"/>
+	<line class="st9" x1="1143.3" y1="-133.3" x2="1217.3" y2="-133.3"/>
+</g>
+<g id="Layer_5_00000120533940491463522380000003447858052343301046_">
+	<path class="st0" d="M598,23c0-8.3-6.7-15-15-15H198c-8.3,0-15,6.7-15,15v167c0,8.3,6.7,15,15,15h385c8.3,0,15-6.7,15-15V23z"/>
+	<rect x="197" y="19" class="st1" width="70" height="28"/>
+	<text transform="matrix(1 0 0 1 197 31.4199)" class="st17 st18">.git</text>
+</g>
+<rect x="229" y="166" class="st1" width="147" height="17"/>
+<text transform="matrix(1 0 0 1 269.4766 174.6279)" class="st19 st20">staging area</text>
+<rect x="464.8" y="179" class="st1" width="147" height="17"/>
+<text transform="matrix(1 0 0 1 511.9414 187.6279)" class="st19 st20">repository</text>
+<rect x="13" y="9" class="st1" width="140" height="23"/>
+<text transform="matrix(1 0 0 1 13 17.52)" class="st21 st20">Working Directory</text>
+<g>
+	
+		<linearGradient id="SVGID_00000167367637634694091230000004378300793101204155_" gradientUnits="userSpaceOnUse" x1="302.499" y1="-421.3322" x2="302.499" y2="-476.5792" gradientTransform="matrix(1 0 0 -1 0 -334)">
+		<stop  offset="9.819999e-02" style="stop-color:#C4C4C4"/>
+		<stop  offset="0.5326" style="stop-color:#686868"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_00000167367637634694091230000004378300793101204155_);stroke:#231F20;stroke-miterlimit:10;" d="
+		M252.5,141.6c0-9.3,22.4-16.8,50-16.8s50,7.5,50,16.8v1c0,0,0-2.1,0-3.1c0-1,0-35.7,0-35.7v0.4c0-9.3-22.4-16.8-50-16.8
+		s-50,7.5-50,16.8v-0.4c0,0,0,34.5,0,35.7c0,1.2,0,3.1,0,3.1V141.6z"/>
+	<g>
+		<path class="st6" d="M352.5,103.7c0,0,0,34.7,0,35.7c0,1,0.4,3.1,0.4,3.1c0,9.3-22.8,16.8-50.4,16.8s-50.4-7.5-50.4-16.8
+			c0,0,0.4-1.9,0.4-3.1c0-1.2,0-35.7,0-35.7c0,9.3,22.4,16.8,50,16.8S352.5,113,352.5,103.7z"/>
+	</g>
+</g>
+<g>
+	
+		<linearGradient id="SVGID_00000142166402777710506650000009004971210602787241_" gradientUnits="userSpaceOnUse" x1="535.8989" y1="-420.225" x2="535.8989" y2="-475.472" gradientTransform="matrix(1 0 0 -1 0 -334)">
+		<stop  offset="9.819999e-02" style="stop-color:#C4C4C4"/>
+		<stop  offset="0.5326" style="stop-color:#686868"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_00000142166402777710506650000009004971210602787241_);stroke:#231F20;stroke-miterlimit:10;" d="
+		M485.9,140.4c0-9.3,22.4-16.8,50-16.8s50,7.5,50,16.8v1c0,0,0-2.1,0-3.1c0-1,0-35.7,0-35.7v0.4c0-9.3-22.4-16.8-50-16.8
+		c-27.6,0-50,7.5-50,16.8v-0.4c0,0,0,34.5,0,35.7c0,1.2,0,3.1,0,3.1V140.4z"/>
+	<g>
+		<path class="st6" d="M585.9,102.6c0,0,0,34.7,0,35.7c0,1,0.4,3.1,0.4,3.1c0,9.3-22.8,16.8-50.4,16.8c-27.6,0-50.4-7.5-50.4-16.8
+			c0,0,0.4-1.9,0.4-3.1c0-1.2,0-35.7,0-35.7c0,9.3,22.4,16.8,50,16.8S585.9,111.9,585.9,102.6z"/>
+	</g>
+</g>
+<g>
+	<line class="st9" x1="498.9" y1="130.6" x2="572.9" y2="130.6"/>
+	<line class="st9" x1="498.9" y1="136.6" x2="572.9" y2="136.6"/>
+	<line class="st9" x1="498.9" y1="142.6" x2="572.9" y2="142.6"/>
+</g>
+<g>
+	<line class="st9" x1="265.5" y1="130.6" x2="339.5" y2="130.6"/>
+	<line class="st9" x1="265.5" y1="136.6" x2="339.5" y2="136.6"/>
+	<line class="st9" x1="265.5" y1="142.6" x2="339.5" y2="142.6"/>
+</g>
+<g>
+	<polygon class="st6" points="338.7,96.5 279.4,96.5 266.3,111 325.6,111 	"/>
+	<line class="st24" x1="279.4" y1="102.4" x2="328.2" y2="102.4"/>
+</g>
+<g>
+	
+		<linearGradient id="SVGID_00000170266463000687074720000000737165154475600772_" gradientUnits="userSpaceOnUse" x1="535.8989" y1="-382.784" x2="535.8989" y2="-438.031" gradientTransform="matrix(1 0 0 -1 0 -334)">
+		<stop  offset="9.819999e-02" style="stop-color:#C4C4C4"/>
+		<stop  offset="0.5326" style="stop-color:#686868"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_00000170266463000687074720000000737165154475600772_);stroke:#231F20;stroke-miterlimit:10;" d="
+		M485.9,103c0-9.3,22.4-16.8,50-16.8s50,7.5,50,16.8v1c0,0,0-2.1,0-3.1c0-1,0-35.7,0-35.7v0.4c0-9.3-22.4-16.8-50-16.8
+		c-27.6,0-50,7.5-50,16.8v-0.4c0,0,0,34.5,0,35.7c0,1.2,0,3.1,0,3.1V103z"/>
+	<g>
+		<path class="st6" d="M585.9,65.2c0,0,0,34.7,0,35.7c0,1,0.4,3.1,0.4,3.1c0,9.3-22.8,16.8-50.4,16.8c-27.6,0-50.4-7.5-50.4-16.8
+			c0,0,0.4-1.9,0.4-3.1c0-1.2,0-35.7,0-35.7c0,9.3,22.4,16.8,50,16.8S585.9,74.4,585.9,65.2z"/>
+	</g>
+</g>
+<g>
+	<polygon class="st6" points="572.1,54.3 512.8,54.3 499.7,68.8 559,68.8 	"/>
+	<line class="st24" x1="512.8" y1="60.2" x2="561.6" y2="60.2"/>
+</g>
+<g>
+	<line class="st9" x1="501.3" y1="92.7" x2="575.3" y2="92.7"/>
+	<line class="st9" x1="501.3" y1="98.7" x2="575.3" y2="98.7"/>
+	<line class="st9" x1="501.3" y1="104.7" x2="575.3" y2="104.7"/>
+</g>
+<g>
+	<rect x="675" y="-168" class="st2" width="100" height="128"/>
+	<rect x="675" y="-168" class="st3" width="100" height="128"/>
+	<line class="st15" x1="688" y1="-144.5" x2="762" y2="-144.5"/>
+</g>
+<rect x="26.2" y="37.8" class="st2" width="100" height="128"/>
+<rect x="26.2" y="37.8" class="st3" width="100" height="128"/>
+<line class="st9" x1="39.2" y1="57.8" x2="113.2" y2="57.8"/>
+<line class="st9" x1="39.2" y1="63.8" x2="113.2" y2="63.8"/>
+<line class="st9" x1="39.2" y1="69.8" x2="113.2" y2="69.8"/>
+<rect x="39.8" y="75.8" class="st2" width="100" height="128"/>
+<rect x="39.8" y="75.8" class="st3" width="100" height="128"/>
+<line class="st24" x1="52.8" y1="99.3" x2="126.8" y2="99.3"/>
+<g id="Layer_5_00000080925981805800351720000009711784157851882935_">
+	<path class="st0" d="M1240,23c0-8.3-6.7-15-15-15H840c-8.3,0-15,6.7-15,15v167c0,8.3,6.7,15,15,15h385c8.3,0,15-6.7,15-15V23z"/>
+	<rect x="839" y="19" class="st1" width="70" height="28"/>
+	<text transform="matrix(1 0 0 1 839 31.4198)" class="st17 st18">.git</text>
+</g>
+<rect x="871" y="166" class="st1" width="147" height="17"/>
+<text transform="matrix(1 0 0 1 911.4766 174.6278)" class="st19 st20">staging area</text>
+<rect x="1106.8" y="179" class="st1" width="147" height="17"/>
+<text transform="matrix(1 0 0 1 1153.9407 187.6278)" class="st19 st20">repository</text>
+<rect x="655" y="9" class="st1" width="140" height="23"/>
+<text transform="matrix(1 0 0 1 654.9995 17.52)" class="st21 st20">Working Directory</text>
+<g>
+	<rect x="661.5" y="42.5" class="st2" width="100" height="128"/>
+	<rect x="661.5" y="42.5" class="st3" width="100" height="128"/>
+</g>
+<g>
+	
+		<linearGradient id="SVGID_00000181067048714192165130000014913975549118954406_" gradientUnits="userSpaceOnUse" x1="944.499" y1="-421.3322" x2="944.499" y2="-476.5792" gradientTransform="matrix(1 0 0 -1 0 -334)">
+		<stop  offset="9.819999e-02" style="stop-color:#C4C4C4"/>
+		<stop  offset="0.5326" style="stop-color:#686868"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_00000181067048714192165130000014913975549118954406_);stroke:#231F20;stroke-miterlimit:10;" d="
+		M894.5,141.6c0-9.3,22.4-16.8,50-16.8c27.6,0,50,7.5,50,16.8v1c0,0,0-2.1,0-3.1c0-1,0-35.7,0-35.7v0.4c0-9.3-22.4-16.8-50-16.8
+		c-27.6,0-50,7.5-50,16.8v-0.4c0,0,0,34.5,0,35.7c0,1.2,0,3.1,0,3.1V141.6z"/>
+	<g>
+		<path class="st6" d="M994.5,103.7c0,0,0,34.7,0,35.7c0,1,0.4,3.1,0.4,3.1c0,9.3-22.8,16.8-50.4,16.8s-50.4-7.5-50.4-16.8
+			c0,0,0.4-1.9,0.4-3.1c0-1.2,0-35.7,0-35.7c0,9.3,22.4,16.8,50,16.8C972.1,120.5,994.5,113,994.5,103.7z"/>
+	</g>
+</g>
+<g>
+	
+		<linearGradient id="SVGID_00000176722620322821900880000018033103074301782693_" gradientUnits="userSpaceOnUse" x1="1177.8989" y1="-420.225" x2="1177.8989" y2="-475.472" gradientTransform="matrix(1 0 0 -1 0 -334)">
+		<stop  offset="9.819999e-02" style="stop-color:#C4C4C4"/>
+		<stop  offset="0.5326" style="stop-color:#686868"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_00000176722620322821900880000018033103074301782693_);stroke:#231F20;stroke-miterlimit:10;" d="
+		M1127.9,140.4c0-9.3,22.4-16.8,50-16.8c27.6,0,50,7.5,50,16.8v1c0,0,0-2.1,0-3.1c0-1,0-35.7,0-35.7v0.4c0-9.3-22.4-16.8-50-16.8
+		c-27.6,0-50,7.5-50,16.8v-0.4c0,0,0,34.5,0,35.7c0,1.2,0,3.1,0,3.1V140.4z"/>
+	<g>
+		<path class="st6" d="M1227.9,102.6c0,0,0,34.7,0,35.7c0,1,0.4,3.1,0.4,3.1c0,9.3-22.8,16.8-50.4,16.8s-50.4-7.5-50.4-16.8
+			c0,0,0.4-1.9,0.4-3.1c0-1.2,0-35.7,0-35.7c0,9.3,22.4,16.8,50,16.8S1227.9,111.9,1227.9,102.6z"/>
+	</g>
+</g>
+<g>
+	<line class="st9" x1="1140.9" y1="130.6" x2="1214.9" y2="130.6"/>
+	<line class="st9" x1="1140.9" y1="136.6" x2="1214.9" y2="136.6"/>
+	<line class="st9" x1="1140.9" y1="142.6" x2="1214.9" y2="142.6"/>
+</g>
+<g>
+	<line class="st9" x1="907.5" y1="130.6" x2="981.5" y2="130.6"/>
+	<line class="st9" x1="907.5" y1="136.6" x2="981.5" y2="136.6"/>
+	<line class="st9" x1="907.5" y1="142.6" x2="981.5" y2="142.6"/>
+</g>
+<g>
+	<line class="st9" x1="674.5" y1="64.4" x2="748.5" y2="64.4"/>
+	<line class="st9" x1="674.5" y1="70.4" x2="748.5" y2="70.4"/>
+	<line class="st9" x1="674.5" y1="76.4" x2="748.5" y2="76.4"/>
+</g>
+<rect x="677.7" y="184.2" class="st1" width="469.8" height="27"/>
+<text transform="matrix(1 0 0 1 677.667 192.71)" class="st21 st20">git reset --hard HEAD~1</text>
+<g>
+	<rect x="511.6" y="-207" class="st1" width="100" height="25.4"/>
+	<text transform="matrix(1 0 0 1 511.5868 -189.9433)" class="st21 st29">HEAD</text>
+	<g>
+		<line x1="536.4" y1="-181.6" x2="536.4" y2="-137.1"/>
+		<g>
+			<line class="st24" x1="536.4" y1="-181.6" x2="536.4" y2="-149.2"/>
+			<g>
+				<path class="st28" d="M536.4-137.1c-2.1-5.7-5.7-12.7-9.5-17.1l9.5,3.4l9.5-3.4C542.1-149.9,538.5-142.8,536.4-137.1z"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<rect x="1153.6" y="-220.9" class="st1" width="100" height="25.4"/>
+	<text transform="matrix(1 0 0 1 1153.5868 -203.8808)" class="st21 st29">HEAD</text>
+	<g>
+		<line x1="1177.9" y1="-202.2" x2="1177.9" y2="-175.9"/>
+		<g>
+			<line class="st24" x1="1177.9" y1="-202.2" x2="1177.9" y2="-188"/>
+			<g>
+				<path class="st28" d="M1177.9-175.9c-2.1-5.7-5.7-12.7-9.5-17.1l9.5,3.4l9.5-3.4C1183.6-188.7,1180-181.6,1177.9-175.9z"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<rect x="1153.6" y="54.7" class="st1" width="100" height="25.4"/>
+	<text transform="matrix(1 0 0 1 1153.5868 71.7878)" class="st21 st29">HEAD</text>
+	<g>
+		<line x1="1177.9" y1="73.5" x2="1177.9" y2="99.7"/>
+		<g>
+			<line class="st24" x1="1177.9" y1="73.5" x2="1177.9" y2="87.7"/>
+			<g>
+				<path class="st28" d="M1177.9,99.7c-2.1-5.7-5.7-12.7-9.5-17.1l9.5,3.4l9.5-3.4C1183.6,87,1180,94.1,1177.9,99.7z"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<rect x="1153.6" y="-425.8" class="st1" width="100" height="25.4"/>
+	<text transform="matrix(1 0 0 1 1153.5868 -408.7246)" class="st21 st29">HEAD</text>
+	<g>
+		<line x1="1177.9" y1="-407.1" x2="1177.9" y2="-380.8"/>
+		<g>
+			<line class="st24" x1="1177.9" y1="-407.1" x2="1177.9" y2="-392.9"/>
+			<g>
+				<path class="st28" d="M1177.9-380.8c-2.1-5.7-5.7-12.7-9.5-17.1l9.5,3.4l9.5-3.4C1183.6-393.5,1180-386.5,1177.9-380.8z"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<rect x="511.6" y="15.3" class="st1" width="100" height="25.4"/>
+	<text transform="matrix(1 0 0 1 511.5868 32.3596)" class="st21 st29">HEAD</text>
+	<g>
+		<line x1="535.9" y1="34" x2="535.9" y2="60.3"/>
+		<g>
+			<line class="st24" x1="535.9" y1="34" x2="535.9" y2="48.2"/>
+			<g>
+				<path class="st28" d="M535.9,60.3c-2.1-5.7-5.7-12.7-9.5-17.1l9.5,3.4l9.5-3.4C541.6,47.6,538,54.6,535.9,60.3z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

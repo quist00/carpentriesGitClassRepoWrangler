@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 622 218" style="enable-background:new 0 0 622 218;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#B5B5B5;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st1{fill:none;}
+	.st2{font-family:'ArialMT';}
+	.st3{font-size:18px;}
+	.st4{font-family:'Helvetica';}
+	.st5{font-size:12px;}
+	.st6{font-family:'MyriadPro-Regular';}
+	.st7{fill:#DCDEE0;}
+	.st8{fill:none;stroke:#85888D;stroke-width:2;}
+	.st9{fill:none;stroke:#6FBE44;stroke-width:2;}
+	.st10{fill:url(#SVGID_1_);stroke:#231F20;stroke-miterlimit:10;}
+	.st11{fill:#FFFFFF;stroke:#231F20;stroke-miterlimit:10;}
+	.st12{fill:#45BEEE;}
+	.st13{fill:url(#SVGID_00000181046261459088349820000006562682683238499471_);stroke:#231F20;stroke-miterlimit:10;}
+	.st14{fill:none;stroke:#000000;stroke-width:2;}
+	.st15{fill:url(#SVGID_00000157306287105854536940000013766150721092067990_);stroke:#231F20;stroke-miterlimit:10;}
+	.st16{fill:url(#SVGID_00000053528582656443640050000008209535408760179082_);stroke:#231F20;stroke-miterlimit:10;}
+	.st17{fill:url(#SVGID_00000152977253912196931610000017629172327148027551_);stroke:#231F20;stroke-miterlimit:10;}
+	.st18{fill:url(#SVGID_00000139284700003159483520000005176776584192772502_);stroke:#231F20;stroke-miterlimit:10;}
+	.st19{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st20{fill:none;stroke:#70BF41;stroke-width:2;}
+	.st21{fill:url(#SVGID_00000016038819484666851090000003840405858681276843_);stroke:#231F20;stroke-miterlimit:10;}
+	.st22{fill:url(#SVGID_00000114785043109625714600000009961611449753716867_);stroke:#231F20;stroke-miterlimit:10;}
+	.st23{fill:url(#SVGID_00000028296336459462948030000006194578162305331607_);stroke:#231F20;stroke-miterlimit:10;}
+	.st24{fill:none;stroke:#231F20;stroke-width:2;}
+	.st25{fill:url(#SVGID_00000052073715374266563700000007933415217250680215_);stroke:#231F20;stroke-miterlimit:10;}
+	.st26{fill:url(#SVGID_00000134243099431407307510000012396618330635089052_);stroke:#231F20;stroke-miterlimit:10;}
+	.st27{fill:url(#SVGID_00000022541468623374953830000005678848504631412648_);stroke:#231F20;stroke-miterlimit:10;}
+	.st28{fill:#231F20;}
+</style>
+<g id="Layer_5">
+	<path class="st0" d="M598,23c0-8.3-6.7-15-15-15H198c-8.3,0-15,6.7-15,15v167c0,8.3,6.7,15,15,15h385c8.3,0,15-6.7,15-15V23z"/>
+	<rect x="197" y="19" class="st1" width="70" height="28"/>
+	<text transform="matrix(1 0 0 1 197 31.4199)" class="st2 st3">.git</text>
+</g>
+<rect x="229" y="166" class="st1" width="147" height="17"/>
+<text transform="matrix(1 0 0 1 269.4766 174.6279)" class="st4 st5">staging area</text>
+<rect x="464.8" y="179" class="st1" width="147" height="17"/>
+<text transform="matrix(1 0 0 1 511.9414 187.6279)" class="st4 st5">repository</text>
+<rect x="13" y="9" class="st1" width="140" height="23"/>
+<text transform="matrix(1 0 0 1 13 17.52)" class="st6 st5">Working Directory</text>
+</svg>

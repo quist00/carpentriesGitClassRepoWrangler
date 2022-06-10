@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 622 218" style="enable-background:new 0 0 622 218;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#B5B5B5;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st1{fill:none;}
+	.st2{fill:url(#SVGID_1_);stroke:#231F20;stroke-miterlimit:10;}
+	.st3{fill:#FFFFFF;stroke:#231F20;stroke-miterlimit:10;}
+	.st4{fill:#DCDEE0;}
+	.st5{fill:none;stroke:#85888D;stroke-width:2;}
+	.st6{fill:none;stroke:#6FBE44;stroke-width:2;}
+	.st7{fill:#45BEEE;}
+	.st8{fill:url(#SVGID_00000008143412946315305960000014670329219835486080_);stroke:#231F20;stroke-miterlimit:10;}
+	.st9{fill:url(#SVGID_00000090979225144134739040000011749728672742588052_);stroke:#231F20;stroke-miterlimit:10;}
+	.st10{fill:none;stroke:#000000;stroke-width:2;}
+	.st11{fill:url(#SVGID_00000170959997554425753280000006851421350303858306_);stroke:#231F20;stroke-miterlimit:10;}
+	.st12{fill:url(#SVGID_00000138546386098340430190000001850833189245927355_);stroke:#231F20;stroke-miterlimit:10;}
+	.st13{fill:url(#SVGID_00000024707159038489940390000008550488794352705940_);stroke:#231F20;stroke-miterlimit:10;}
+	.st14{fill:url(#SVGID_00000019658891116521510120000003980977489326773912_);stroke:#231F20;stroke-miterlimit:10;}
+	.st15{fill:none;stroke:#70BF41;stroke-width:2;}
+	.st16{fill:url(#SVGID_00000183930417468023472170000010216455549472278203_);stroke:#231F20;stroke-miterlimit:10;}
+	.st17{fill:url(#SVGID_00000005965290956788676310000015243412211315216546_);stroke:#231F20;stroke-miterlimit:10;}
+	.st18{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st19{fill:url(#SVGID_00000014616911450267885490000016662006288644690081_);stroke:#231F20;stroke-miterlimit:10;}
+	.st20{fill:url(#SVGID_00000090289583524945767180000013055420012197746592_);stroke:#231F20;stroke-miterlimit:10;}
+	.st21{fill:url(#SVGID_00000058567620132296506280000014648912040436748183_);stroke:#231F20;stroke-miterlimit:10;}
+	.st22{font-family:'ArialMT';}
+	.st23{font-size:18px;}
+	.st24{font-family:'Helvetica';}
+	.st25{font-size:12px;}
+	.st26{font-family:'MyriadPro-Regular';}
+	.st27{fill:url(#SVGID_00000101803128344956143250000012452294674450590094_);stroke:#231F20;stroke-miterlimit:10;}
+	.st28{fill:url(#SVGID_00000132808982961396466800000004878452149540100496_);stroke:#231F20;stroke-miterlimit:10;}
+	.st29{fill:none;stroke:#231F20;stroke-width:2;}
+	.st30{fill:url(#SVGID_00000139983930813394233910000000472747970718387124_);stroke:#231F20;stroke-miterlimit:10;}
+</style>
+<g id="Layer_5">
+	<path class="st0" d="M-3896,23c0-8.3-6.7-15-15-15h-385c-8.3,0-15,6.7-15,15v167c0,8.3,6.7,15,15,15h385c8.3,0,15-6.7,15-15V23z"/>
+	<rect x="-4297" y="19" class="st1" width="70" height="28"/>
+	<text transform="matrix(1 0 0 1 -4297 31.4199)" class="st22 st23">.git</text>
+</g>
+<rect x="-4265" y="166" class="st1" width="147" height="17"/>
+<text transform="matrix(1 0 0 1 -4224.5234 174.6279)" class="st24 st25">staging area</text>
+<rect x="-4029.2" y="179" class="st1" width="147" height="17"/>
+<text transform="matrix(1 0 0 1 -3982.0586 187.6279)" class="st24 st25">repository</text>
+<rect x="-4481" y="9" class="st1" width="140" height="23"/>
+<text transform="matrix(1 0 0 1 -4481 17.52)" class="st26 st25">Working Directory</text>
+<g id="Layer_5_00000104676548185313698960000007086467108832745090_">
+	<path class="st0" d="M-3254,23c0-8.3-6.7-15-15-15h-385c-8.3,0-15,6.7-15,15v167c0,8.3,6.7,15,15,15h385c8.3,0,15-6.7,15-15V23z"/>
+	<rect x="-3655" y="19" class="st1" width="70" height="28"/>
+	<text transform="matrix(1 0 0 1 -3655 31.4199)" class="st22 st23">.git</text>
+</g>
+<rect x="-3623" y="166" class="st1" width="147" height="17"/>
+<text transform="matrix(1 0 0 1 -3582.5234 174.6279)" class="st24 st25">staging area</text>
+<rect x="-3387.2" y="179" class="st1" width="147" height="17"/>
+<text transform="matrix(1 0 0 1 -3340.0586 187.6279)" class="st24 st25">repository</text>
+<rect x="-3839" y="9" class="st1" width="140" height="23"/>
+<text transform="matrix(1 0 0 1 -3839 17.52)" class="st26 st25">Working Directory</text>
+<g>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-3549.501" y1="132.6678" x2="-3549.501" y2="77.4208" gradientTransform="matrix(1 0 0 -1 0 220)">
+		<stop  offset="9.819999e-02" style="stop-color:#C4C4C4"/>
+		<stop  offset="0.5326" style="stop-color:#686868"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path class="st2" d="M-3599.5,141.6c0-9.3,22.4-16.8,50-16.8s50,7.5,50,16.8v1c0,0,0-2.1,0-3.1c0-1,0-35.7,0-35.7v0.4
+		c0-9.3-22.4-16.8-50-16.8s-50,7.5-50,16.8v-0.4c0,0,0,34.5,0,35.7c0,1.2,0,3.1,0,3.1V141.6z"/>
+	<g>
+		<path class="st3" d="M-3499.5,103.7c0,0,0,34.7,0,35.7c0,1,0.4,3.1,0.4,3.1c0,9.3-22.8,16.8-50.4,16.8s-50.4-7.5-50.4-16.8
+			c0,0,0.4-1.9,0.4-3.1c0-1.2,0-35.7,0-35.7c0,9.3,22.4,16.8,50,16.8S-3499.5,113-3499.5,103.7z"/>
+	</g>
+</g>
+<g>
+	<rect x="-3832.5" y="42.5" class="st4" width="100" height="128"/>
+	<rect x="-3832.5" y="42.5" class="st5" width="100" height="128"/>
+</g>
+<g>
+	<line class="st6" x1="-3819.5" y1="66.7" x2="-3745.5" y2="66.7"/>
+	<line class="st6" x1="-3819.5" y1="72.7" x2="-3745.5" y2="72.7"/>
+	<line class="st6" x1="-3819.5" y1="78.7" x2="-3745.5" y2="78.7"/>
+</g>
+<g>
+	<line class="st6" x1="-3586.5" y1="131.5" x2="-3512.5" y2="131.5"/>
+	<line class="st6" x1="-3586.5" y1="137.5" x2="-3512.5" y2="137.5"/>
+	<line class="st6" x1="-3586.5" y1="143.5" x2="-3512.5" y2="143.5"/>
+</g>
+<g>
+	<g>
+		<rect x="-3718.6" y="91.6" class="st7" width="46" height="30.6"/>
+		<polygon class="st7" points="-3676,76.4 -3676,136.6 -3635.4,106 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 -3705.4241 109.2161)" class="st22 st25">git add</text>
+</g>
+<g id="Layer_5_00000049199391134790861630000004330526260849335936_">
+	<path class="st0" d="M-2612,23c0-8.3-6.7-15-15-15h-385c-8.3,0-15,6.7-15,15v167c0,8.3,6.7,15,15,15h385c8.3,0,15-6.7,15-15V23z"/>
+	<rect x="-3013" y="19" class="st1" width="70" height="28"/>
+	<text transform="matrix(1 0 0 1 -3013 31.4199)" class="st22 st23">.git</text>
+</g>
+<rect x="-2981" y="166" class="st1" width="147" height="17"/>
+<text transform="matrix(1 0 0 1 -2940.5234 174.6279)" class="st24 st25">staging area</text>
+<rect x="-2745.2" y="179" class="st1" width="147" height="17"/>
+<text transform="matrix(1 0 0 1 -2698.0586 187.6279)" class="st24 st25">repository</text>
+<rect x="-3197" y="9" class="st1" width="140" height="23"/>
+<text transform="matrix(1 0 0 1 -3197 17.52)" class="st26 st25">Working Directory</text>
+<g>
+	<rect x="-3190.5" y="42.5" class="st4" width="100" height="128"/>
+	<rect x="-3190.5" y="42.5" class="st5" width="100" height="128"/>
+</g>
+<g>
+	<line class="st6" x1="-3177.5" y1="66.7" x2="-3103.5" y2="66.7"/>
+	<line class="st6" x1="-3177.5" y1="72.7" x2="-3103.5" y2="72.7"/>
+	<line class="st6" x1="-3177.5" y1="78.7" x2="-3103.5" y2="78.7"/>
+</g>
+<g>
+	<g>
+		
+			<linearGradient id="SVGID_00000135652600904654215360000007215479673372938893_" gradientUnits="userSpaceOnUse" x1="-2907.501" y1="132.6678" x2="-2907.501" y2="77.4208" gradientTransform="matrix(1 0 0 -1 0 220)">
+			<stop  offset="9.819999e-02" style="stop-color:#C4C4C4"/>
+			<stop  offset="0.5326" style="stop-color:#686868"/>
+			<stop  offset="1" style="stop-color:#000000"/>
+		</linearGradient>
+		<path style="fill:url(#SVGID_00000135652600904654215360000007215479673372938893_);stroke:#231F20;stroke-miterlimit:10;" d="
+			M-2957.5,141.6c0-9.3,22.4-16.8,50-16.8s50,7.5,50,16.8v1c0,0,0-2.1,0-3.1c0-1,0-35.7,0-35.7v0.4c0-9.3-22.4-16.8-50-16.8
+			s-50,7.5-50,16.8v-0.4c0,0,0,34.5,0,35.7c0,1.2,0,3.1,0,3.1V141.6z"/>
+		<g>
+			<path class="st3" d="M-2857.5,103.7c0,0,0,34.7,0,35.7c0,1,0.4,3.1,0.4,3.1c0,9.3-22.8,16.8-50.4,16.8s-50.4-7.5-50.4-16.8
+				c0,0,0.4-1.9,0.4-3.1c0-1.2,0-35.7,0-35.7c0,9.3,22.4,16.8,50,16.8S-2857.5,113-2857.5,103.7z"/>
+		</g>
+	</g>
+	<g>
+		<line class="st6" x1="-2944.5" y1="131.5" x2="-2870.5" y2="131.5"/>
+		<line class="st6" x1="-2944.5" y1="137.5" x2="-2870.5" y2="137.5"/>
+		<line class="st6" x1="-2944.5" y1="143.5" x2="-2870.5" y2="143.5"/>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="-3076.6" y="91.6" class="st7" width="46" height="30.6"/>
+		<polygon class="st7" points="-3034,76.4 -3034,136.6 -2993.4,106 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 -3063.4241 109.2161)" class="st22 st25">git add</text>
+</g>
+<g>
+	
+		<linearGradient id="SVGID_00000048485837342082994070000013665955724090414987_" gradientUnits="userSpaceOnUse" x1="-2674.1011" y1="133.775" x2="-2674.1011" y2="78.528" gradientTransform="matrix(1 0 0 -1 0 220)">
+		<stop  offset="9.819999e-02" style="stop-color:#C4C4C4"/>
+		<stop  offset="0.5326" style="stop-color:#686868"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_00000048485837342082994070000013665955724090414987_);stroke:#231F20;stroke-miterlimit:10;" d="
+		M-2724.1,140.4c0-9.3,22.4-16.8,50-16.8s50,7.5,50,16.8v1c0,0,0-2.1,0-3.1c0-1,0-35.7,0-35.7v0.4c0-9.3-22.4-16.8-50-16.8
+		c-27.6,0-50,7.5-50,16.8v-0.4c0,0,0,34.5,0,35.7c0,1.2,0,3.1,0,3.1V140.4z"/>
+	<g>
+		<path class="st3" d="M-2624.1,102.6c0,0,0,34.7,0,35.7c0,1,0.4,3.1,0.4,3.1c0,9.3-22.8,16.8-50.4,16.8c-27.6,0-50.4-7.5-50.4-16.8
+			c0,0,0.4-1.9,0.4-3.1c0-1.2,0-35.7,0-35.7c0,9.3,22.4,16.8,50,16.8C-2646.5,119.4-2624.1,111.9-2624.1,102.6z"/>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="-2834" y="91.6" class="st7" width="46" height="30.6"/>
+		<polygon class="st7" points="-2791.4,76.4 -2791.4,136.6 -2750.9,106 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 -2828.4873 109.2161)" class="st22 st25">git commit</text>
+</g>
+<g>
+	<line class="st10" x1="-2711.1" y1="130.6" x2="-2637.1" y2="130.6"/>
+	<line class="st10" x1="-2711.1" y1="136.6" x2="-2637.1" y2="136.6"/>
+	<line class="st10" x1="-2711.1" y1="142.6" x2="-2637.1" y2="142.6"/>
+</g>
+<g id="Layer_5_00000168800307451116985290000010511921497985917582_">
+	<path class="st0" d="M-1970,23c0-8.3-6.7-15-15-15h-385c-8.3,0-15,6.7-15,15v167c0,8.3,6.7,15,15,15h385c8.3,0,15-6.7,15-15V23z"/>
+	<rect x="-2371" y="19" class="st1" width="70" height="28"/>
+	<text transform="matrix(1 0 0 1 -2371 31.4199)" class="st22 st23">.git</text>
+</g>
+<rect x="-2339" y="166" class="st1" width="147" height="17"/>
+<text transform="matrix(1 0 0 1 -2298.5234 174.6279)" class="st24 st25">staging area</text>
+<rect x="-2103.2" y="179" class="st1" width="147" height="17"/>
+<text transform="matrix(1 0 0 1 -2056.0586 187.6279)" class="st24 st25">repository</text>
+<rect x="-2555" y="9" class="st1" width="140" height="23"/>
+<text transform="matrix(1 0 0 1 -2555 17.52)" class="st26 st25">Working Directory</text>
+<g>
+	<rect x="-2548.5" y="42.5" class="st4" width="100" height="128"/>
+	<rect x="-2548.5" y="42.5" class="st5" width="100" height="128"/>
+</g>
+<g>
+	
+		<linearGradient id="SVGID_00000164506726442043472550000001017254906081971626_" gradientUnits="userSpaceOnUse" x1="-2265.501" y1="132.6678" x2="-2265.501" y2="77.4208" gradientTransform="matrix(1 0 0 -1 0 220)">
+		<stop  offset="9.819999e-02" style="stop-color:#C4C4C4"/>
+		<stop  offset="0.5326" style="stop-color:#686868"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_00000164506726442043472550000001017254906081971626_);stroke:#231F20;stroke-miterlimit:10;" d="
+		M-2315.5,141.6c0-9.3,22.4-16.8,50-16.8s50,7.5,50,16.8v1c0,0,0-2.1,0-3.1c0-1,0-35.7,0-35.7v0.4c0-9.3-22.4-16.8-50-16.8
+		s-50,7.5-50,16.8v-0.4c0,0,0,34.5,0,35.7c0,1.2,0,3.1,0,3.1V141.6z"/>
+	<g>
+		<path class="st3" d="M-2215.5,103.7c0,0,0,34.7,0,35.7c0,1,0.4,3.1,0.4,3.1c0,9.3-22.8,16.8-50.4,16.8s-50.4-7.5-50.4-16.8
+			c0,0,0.4-1.9,0.4-3.1c0-1.2,0-35.7,0-35.7c0,9.3,22.4,16.8,50,16.8S-2215.5,113-2215.5,103.7z"/>
+	</g>
+</g>
+<g>
+	
+		<linearGradient id="SVGID_00000023269484461878771870000000666074196778609329_" gradientUnits="userSpaceOnUse" x1="-2032.1011" y1="133.775" x2="-2032.1011" y2="78.528" gradientTransform="matrix(1 0 0 -1 0 220)">
+		<stop  offset="9.819999e-02" style="stop-color:#C4C4C4"/>
+		<stop  offset="0.5326" style="stop-color:#686868"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_00000023269484461878771870000000666074196778609329_);stroke:#231F20;stroke-miterlimit:10;" d="
+		M-2082.1,140.4c0-9.3,22.4-16.8,50-16.8s50,7.5,50,16.8v1c0,0,0-2.1,0-3.1c0-1,0-35.7,0-35.7v0.4c0-9.3-22.4-16.8-50-16.8
+		c-27.6,0-50,7.5-50,16.8v-0.4c0,0,0,34.5,0,35.7c0,1.2,0,3.1,0,3.1V140.4z"/>
+	<g>
+		<path class="st3" d="M-1982.1,102.6c0,0,0,34.7,0,35.7c0,1,0.4,3.1,0.4,3.1c0,9.3-22.8,16.8-50.4,16.8s-50.4-7.5-50.4-16.8
+			c0,0,0.4-1.9,0.4-3.1c0-1.2,0-35.7,0-35.7c0,9.3,22.4,16.8,50,16.8S-1982.1,111.9-1982.1,102.6z"/>
+	</g>
+</g>
+<g>
+	<line class="st10" x1="-2069.1" y1="130.6" x2="-1995.1" y2="130.6"/>
+	<line class="st10" x1="-2069.1" y1="136.6" x2="-1995.1" y2="136.6"/>
+	<line class="st10" x1="-2069.1" y1="142.6" x2="-1995.1" y2="142.6"/>
+</g>
+<g>
+	<line class="st10" x1="-2302.5" y1="130.6" x2="-2228.5" y2="130.6"/>
+	<line class="st10" x1="-2302.5" y1="136.6" x2="-2228.5" y2="136.6"/>
+	<line class="st10" x1="-2302.5" y1="142.6" x2="-2228.5" y2="142.6"/>
+</g>
+<g>
+	<line class="st10" x1="-2535.5" y1="64.4" x2="-2461.5" y2="64.4"/>
+	<line class="st10" x1="-2535.5" y1="70.4" x2="-2461.5" y2="70.4"/>
+	<line class="st10" x1="-2535.5" y1="76.4" x2="-2461.5" y2="76.4"/>
+</g>
+<g id="Layer_5_00000137127178189681235220000013252775541086285501_">
+	<path class="st0" d="M-1328,23c0-8.3-6.7-15-15-15h-385c-8.3,0-15,6.7-15,15v167c0,8.3,6.7,15,15,15h385c8.3,0,15-6.7,15-15V23z"/>
+	<rect x="-1729" y="19" class="st1" width="70" height="28"/>
+	<text transform="matrix(1 0 0 1 -1729 31.4199)" class="st22 st23">.git</text>
+</g>
+<rect x="-1697" y="166" class="st1" width="147" height="17"/>
+<text transform="matrix(1 0 0 1 -1656.5234 174.6279)" class="st24 st25">staging area</text>
+<rect x="-1461.2" y="179" class="st1" width="147" height="17"/>
+<text transform="matrix(1 0 0 1 -1414.0586 187.6279)" class="st24 st25">repository</text>
+<rect x="-1913" y="9" class="st1" width="140" height="23"/>
+<text transform="matrix(1 0 0 1 -1913 17.52)" class="st26 st25">Working Directory</text>
+<g>
+	
+		<linearGradient id="SVGID_00000099655946143383811270000016906626401194143423_" gradientUnits="userSpaceOnUse" x1="-1623.501" y1="132.6678" x2="-1623.501" y2="77.4208" gradientTransform="matrix(1 0 0 -1 0 220)">
+		<stop  offset="9.819999e-02" style="stop-color:#C4C4C4"/>
+		<stop  offset="0.5326" style="stop-color:#686868"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_00000099655946143383811270000016906626401194143423_);stroke:#231F20;stroke-miterlimit:10;" d="
+		M-1673.5,141.6c0-9.3,22.4-16.8,50-16.8c27.6,0,50,7.5,50,16.8v1c0,0,0-2.1,0-3.1c0-1,0-35.7,0-35.7v0.4c0-9.3-22.4-16.8-50-16.8
+		c-27.6,0-50,7.5-50,16.8v-0.4c0,0,0,34.5,0,35.7c0,1.2,0,3.1,0,3.1V141.6z"/>
+	<g>
+		<path class="st3" d="M-1573.5,103.7c0,0,0,34.7,0,35.7c0,1,0.4,3.1,0.4,3.1c0,9.3-22.8,16.8-50.4,16.8s-50.4-7.5-50.4-16.8
+			c0,0,0.4-1.9,0.4-3.1c0-1.2,0-35.7,0-35.7c0,9.3,22.4,16.8,50,16.8C-1595.9,120.5-1573.5,113-1573.5,103.7z"/>
+	</g>
+</g>
+<g>
+	
+		<linearGradient id="SVGID_00000030457372756028074280000011676703077576431498_" gradientUnits="userSpaceOnUse" x1="-1390.1011" y1="133.775" x2="-1390.1011" y2="78.528" gradientTransform="matrix(1 0 0 -1 0 220)">
+		<stop  offset="9.819999e-02" style="stop-color:#C4C4C4"/>
+		<stop  offset="0.5326" style="stop-color:#686868"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_00000030457372756028074280000011676703077576431498_);stroke:#231F20;stroke-miterlimit:10;" d="
+		M-1440.1,140.4c0-9.3,22.4-16.8,50-16.8c27.6,0,50,7.5,50,16.8v1c0,0,0-2.1,0-3.1c0-1,0-35.7,0-35.7v0.4c0-9.3-22.4-16.8-50-16.8
+		c-27.6,0-50,7.5-50,16.8v-0.4c0,0,0,34.5,0,35.7c0,1.2,0,3.1,0,3.1V140.4z"/>
+	<g>
+		<path class="st3" d="M-1340.1,102.6c0,0,0,34.7,0,35.7c0,1,0.4,3.1,0.4,3.1c0,9.3-22.8,16.8-50.4,16.8s-50.4-7.5-50.4-16.8
+			c0,0,0.4-1.9,0.4-3.1c0-1.2,0-35.7,0-35.7c0,9.3,22.4,16.8,50,16.8S-1340.1,111.9-1340.1,102.6z"/>
+	</g>
+</g>
+<g>
+	<line class="st10" x1="-1427.1" y1="130.6" x2="-1353.1" y2="130.6"/>
+	<line class="st10" x1="-1427.1" y1="136.6" x2="-1353.1" y2="136.6"/>
+	<line class="st10" x1="-1427.1" y1="142.6" x2="-1353.1" y2="142.6"/>
+</g>
+<g>
+	<line class="st10" x1="-1660.5" y1="130.6" x2="-1586.5" y2="130.6"/>
+	<line class="st10" x1="-1660.5" y1="136.6" x2="-1586.5" y2="136.6"/>
+	<line class="st10" x1="-1660.5" y1="142.6" x2="-1586.5" y2="142.6"/>
+</g>
+<g id="Layer_1_00000085223566597053738130000001465331487188735411_">
+	<g>
+		<rect x="-1906.5" y="32" class="st4" width="100" height="128"/>
+		<rect x="-1906.5" y="32" class="st5" width="100" height="128"/>
+		<line class="st10" x1="-1893.5" y1="52" x2="-1819.5" y2="52"/>
+		<line class="st10" x1="-1893.5" y1="58" x2="-1819.5" y2="58"/>
+		<line class="st10" x1="-1893.5" y1="64" x2="-1819.5" y2="64"/>
+		<line class="st15" x1="-1893.5" y1="76" x2="-1819.5" y2="76"/>
+	</g>
+</g>
+<g id="Layer_5_00000135668789249857491010000009770958036161348003_">
+	<path class="st0" d="M-686,23c0-8.3-6.7-15-15-15h-385c-8.3,0-15,6.7-15,15v167c0,8.3,6.7,15,15,15h385c8.3,0,15-6.7,15-15V23z"/>
+	<rect x="-1087" y="19" class="st1" width="70" height="28"/>
+	<text transform="matrix(1 0 0 1 -1087 31.4199)" class="st22 st23">.git</text>
+</g>
+<rect x="-1055" y="166" class="st1" width="147" height="17"/>
+<text transform="matrix(1 0 0 1 -1014.5234 174.6279)" class="st24 st25">staging area</text>
+<rect x="-819.2" y="179" class="st1" width="147" height="17"/>
+<text transform="matrix(1 0 0 1 -772.0586 187.6279)" class="st24 st25">repository</text>
+<rect x="-1271" y="9" class="st1" width="140" height="23"/>
+<text transform="matrix(1 0 0 1 -1271 17.52)" class="st26 st25">Working Directory</text>
+<g>
+	
+		<linearGradient id="SVGID_00000051344238412504623220000003646545110348399550_" gradientUnits="userSpaceOnUse" x1="-981.501" y1="132.6678" x2="-981.501" y2="77.4208" gradientTransform="matrix(1 0 0 -1 0 220)">
+		<stop  offset="9.819999e-02" style="stop-color:#C4C4C4"/>
+		<stop  offset="0.5326" style="stop-color:#686868"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_00000051344238412504623220000003646545110348399550_);stroke:#231F20;stroke-miterlimit:10;" d="
+		M-1031.5,141.6c0-9.3,22.4-16.8,50-16.8c27.6,0,50,7.5,50,16.8v1c0,0,0-2.1,0-3.1c0-1,0-35.7,0-35.7v0.4c0-9.3-22.4-16.8-50-16.8
+		c-27.6,0-50,7.5-50,16.8v-0.4c0,0,0,34.5,0,35.7c0,1.2,0,3.1,0,3.1V141.6z"/>
+	<g>
+		<path class="st3" d="M-931.5,103.7c0,0,0,34.7,0,35.7c0,1,0.4,3.1,0.4,3.1c0,9.3-22.8,16.8-50.4,16.8s-50.4-7.5-50.4-16.8
+			c0,0,0.4-1.9,0.4-3.1c0-1.2,0-35.7,0-35.7c0,9.3,22.4,16.8,50,16.8C-953.9,120.5-931.5,113-931.5,103.7z"/>
+	</g>
+</g>
+<g>
+	
+		<linearGradient id="SVGID_00000025423413054282863620000010660549758277464747_" gradientUnits="userSpaceOnUse" x1="-748.101" y1="133.775" x2="-748.101" y2="78.528" gradientTransform="matrix(1 0 0 -1 0 220)">
+		<stop  offset="9.819999e-02" style="stop-color:#C4C4C4"/>
+		<stop  offset="0.5326" style="stop-color:#686868"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_00000025423413054282863620000010660549758277464747_);stroke:#231F20;stroke-miterlimit:10;" d="
+		M-798.1,140.4c0-9.3,22.4-16.8,50-16.8s50,7.5,50,16.8v1c0,0,0-2.1,0-3.1c0-1,0-35.7,0-35.7v0.4c0-9.3-22.4-16.8-50-16.8
+		s-50,7.5-50,16.8v-0.4c0,0,0,34.5,0,35.7c0,1.2,0,3.1,0,3.1V140.4z"/>
+	<g>
+		<path class="st3" d="M-698.1,102.6c0,0,0,34.7,0,35.7c0,1,0.4,3.1,0.4,3.1c0,9.3-22.8,16.8-50.4,16.8c-27.6,0-50.4-7.5-50.4-16.8
+			c0,0,0.4-1.9,0.4-3.1c0-1.2,0-35.7,0-35.7c0,9.3,22.4,16.8,50,16.8S-698.1,111.9-698.1,102.6z"/>
+	</g>
+</g>
+<g>
+	<line class="st10" x1="-785.1" y1="130.6" x2="-711.1" y2="130.6"/>
+	<line class="st10" x1="-785.1" y1="136.6" x2="-711.1" y2="136.6"/>
+	<line class="st10" x1="-785.1" y1="142.6" x2="-711.1" y2="142.6"/>
+</g>
+<g>
+	<line class="st10" x1="-1018.5" y1="130.6" x2="-944.5" y2="130.6"/>
+	<line class="st10" x1="-1018.5" y1="136.6" x2="-944.5" y2="136.6"/>
+	<line class="st10" x1="-1018.5" y1="142.6" x2="-944.5" y2="142.6"/>
+</g>
+<g id="Layer_1_00000060016177626380247930000006373791302614776477_">
+	<g>
+		<rect x="-1264.5" y="32" class="st4" width="100" height="128"/>
+		<rect x="-1264.5" y="32" class="st5" width="100" height="128"/>
+		<line class="st10" x1="-1251.5" y1="52" x2="-1177.5" y2="52"/>
+		<line class="st10" x1="-1251.5" y1="58" x2="-1177.5" y2="58"/>
+		<line class="st10" x1="-1251.5" y1="64" x2="-1177.5" y2="64"/>
+		<line class="st15" x1="-1251.5" y1="76" x2="-1177.5" y2="76"/>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="-1146.3" y="81.1" class="st7" width="46" height="30.6"/>
+		<polygon class="st7" points="-1103.7,65.9 -1103.7,126.1 -1063.1,95.5 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 -1133.1675 98.7161)" class="st22 st25">git add</text>
+</g>
+<g>
+	<polygon class="st18" points="-945.3,96.5 -1004.6,96.5 -1017.7,111 -958.4,111 	"/>
+	<line class="st15" x1="-1004.6" y1="102.4" x2="-955.8" y2="102.4"/>
+</g>
+<g id="Layer_5_00000075125932499272010290000011441166132591519876_">
+	<path class="st0" d="M-44,23c0-8.3-6.7-15-15-15h-385c-8.3,0-15,6.7-15,15v167c0,8.3,6.7,15,15,15h385c8.3,0,15-6.7,15-15V23z"/>
+	<rect x="-445" y="19" class="st1" width="70" height="28"/>
+	<text transform="matrix(1 0 0 1 -445 31.4199)" class="st22 st23">.git</text>
+</g>
+<rect x="-413" y="166" class="st1" width="147" height="17"/>
+<text transform="matrix(1 0 0 1 -372.5234 174.6279)" class="st24 st25">staging area</text>
+<rect x="-177.2" y="179" class="st1" width="147" height="17"/>
+<text transform="matrix(1 0 0 1 -130.0586 187.6279)" class="st24 st25">repository</text>
+<rect x="-629" y="9" class="st1" width="140" height="23"/>
+<text transform="matrix(1 0 0 1 -629 17.52)" class="st26 st25">Working Directory</text>
+<g>
+	
+		<linearGradient id="SVGID_00000170965247468670003690000012894637861639570359_" gradientUnits="userSpaceOnUse" x1="-339.501" y1="132.6678" x2="-339.501" y2="77.4208" gradientTransform="matrix(1 0 0 -1 0 220)">
+		<stop  offset="9.819999e-02" style="stop-color:#C4C4C4"/>
+		<stop  offset="0.5326" style="stop-color:#686868"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_00000170965247468670003690000012894637861639570359_);stroke:#231F20;stroke-miterlimit:10;" d="
+		M-389.5,141.6c0-9.3,22.4-16.8,50-16.8s50,7.5,50,16.8v1c0,0,0-2.1,0-3.1c0-1,0-35.7,0-35.7v0.4c0-9.3-22.4-16.8-50-16.8
+		s-50,7.5-50,16.8v-0.4c0,0,0,34.5,0,35.7c0,1.2,0,3.1,0,3.1V141.6z"/>
+	<g>
+		<path class="st3" d="M-289.5,103.7c0,0,0,34.7,0,35.7c0,1,0.4,3.1,0.4,3.1c0,9.3-22.8,16.8-50.4,16.8s-50.4-7.5-50.4-16.8
+			c0,0,0.4-1.9,0.4-3.1c0-1.2,0-35.7,0-35.7c0,9.3,22.4,16.8,50,16.8S-289.5,113-289.5,103.7z"/>
+	</g>
+</g>
+<g>
+	
+		<linearGradient id="SVGID_00000064332674518421468610000010571586836165600161_" gradientUnits="userSpaceOnUse" x1="-106.101" y1="133.775" x2="-106.101" y2="78.528" gradientTransform="matrix(1 0 0 -1 0 220)">
+		<stop  offset="9.819999e-02" style="stop-color:#C4C4C4"/>
+		<stop  offset="0.5326" style="stop-color:#686868"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_00000064332674518421468610000010571586836165600161_);stroke:#231F20;stroke-miterlimit:10;" d="
+		M-156.1,140.4c0-9.3,22.4-16.8,50-16.8s50,7.5,50,16.8v1c0,0,0-2.1,0-3.1c0-1,0-35.7,0-35.7v0.4c0-9.3-22.4-16.8-50-16.8
+		s-50,7.5-50,16.8v-0.4c0,0,0,34.5,0,35.7c0,1.2,0,3.1,0,3.1V140.4z"/>
+	<g>
+		<path class="st3" d="M-56.1,102.6c0,0,0,34.7,0,35.7c0,1,0.4,3.1,0.4,3.1c0,9.3-22.8,16.8-50.4,16.8s-50.4-7.5-50.4-16.8
+			c0,0,0.4-1.9,0.4-3.1c0-1.2,0-35.7,0-35.7c0,9.3,22.4,16.8,50,16.8S-56.1,111.9-56.1,102.6z"/>
+	</g>
+</g>
+<g>
+	<line class="st10" x1="-143.1" y1="130.6" x2="-69.1" y2="130.6"/>
+	<line class="st10" x1="-143.1" y1="136.6" x2="-69.1" y2="136.6"/>
+	<line class="st10" x1="-143.1" y1="142.6" x2="-69.1" y2="142.6"/>
+</g>
+<g>
+	<line class="st10" x1="-376.5" y1="130.6" x2="-302.5" y2="130.6"/>
+	<line class="st10" x1="-376.5" y1="136.6" x2="-302.5" y2="136.6"/>
+	<line class="st10" x1="-376.5" y1="142.6" x2="-302.5" y2="142.6"/>
+</g>
+<g id="Layer_1_00000098218138031945122750000015659608353804478097_">
+	<g>
+		<rect x="-622.5" y="32" class="st4" width="100" height="128"/>
+		<rect x="-622.5" y="32" class="st5" width="100" height="128"/>
+		<line class="st10" x1="-609.5" y1="52" x2="-535.5" y2="52"/>
+		<line class="st10" x1="-609.5" y1="58" x2="-535.5" y2="58"/>
+		<line class="st10" x1="-609.5" y1="64" x2="-535.5" y2="64"/>
+		<line class="st15" x1="-609.5" y1="76" x2="-535.5" y2="76"/>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="-504.3" y="81.1" class="st7" width="46" height="30.6"/>
+		<polygon class="st7" points="-461.7,65.9 -461.7,126.1 -421.1,95.5 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 -491.1675 98.7161)" class="st22 st25">git add</text>
+</g>
+<g>
+	<polygon class="st18" points="-303.3,96.5 -362.6,96.5 -375.7,111 -316.4,111 	"/>
+	<line class="st15" x1="-362.6" y1="102.4" x2="-313.8" y2="102.4"/>
+</g>
+<g>
+	<g>
+		<rect x="-264.4" y="81.1" class="st7" width="46" height="30.6"/>
+		<polygon class="st7" points="-221.8,65.9 -221.8,126.1 -181.2,95.5 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 -258.8613 98.7161)" class="st22 st25">git commit</text>
+</g>
+<g>
+	
+		<linearGradient id="SVGID_00000034087529757462058470000010966832016481462958_" gradientUnits="userSpaceOnUse" x1="-106.101" y1="171.216" x2="-106.101" y2="115.969" gradientTransform="matrix(1 0 0 -1 0 220)">
+		<stop  offset="9.819999e-02" style="stop-color:#C4C4C4"/>
+		<stop  offset="0.5326" style="stop-color:#686868"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_00000034087529757462058470000010966832016481462958_);stroke:#231F20;stroke-miterlimit:10;" d="
+		M-156.1,103c0-9.3,22.4-16.8,50-16.8s50,7.5,50,16.8v1c0,0,0-2.1,0-3.1c0-1,0-35.7,0-35.7v0.4c0-9.3-22.4-16.8-50-16.8
+		s-50,7.5-50,16.8v-0.4c0,0,0,34.5,0,35.7c0,1.2,0,3.1,0,3.1V103z"/>
+	<g>
+		<path class="st3" d="M-56.1,65.2c0,0,0,34.7,0,35.7c0,1,0.4,3.1,0.4,3.1c0,9.3-22.8,16.8-50.4,16.8s-50.4-7.5-50.4-16.8
+			c0,0,0.4-1.9,0.4-3.1c0-1.2,0-35.7,0-35.7c0,9.3,22.4,16.8,50,16.8S-56.1,74.4-56.1,65.2z"/>
+	</g>
+</g>
+<g>
+	<polygon class="st18" points="-69.9,54.3 -129.2,54.3 -142.3,68.8 -83,68.8 	"/>
+	<line class="st15" x1="-129.2" y1="60.2" x2="-80.4" y2="60.2"/>
+</g>
+<g>
+	<line class="st10" x1="-140.7" y1="92.7" x2="-66.7" y2="92.7"/>
+	<line class="st10" x1="-140.7" y1="98.7" x2="-66.7" y2="98.7"/>
+	<line class="st10" x1="-140.7" y1="104.7" x2="-66.7" y2="104.7"/>
+</g>
+<g id="Layer_5_00000120533940491463522380000003447858052343301046_">
+	<path class="st0" d="M598,23c0-8.3-6.7-15-15-15H198c-8.3,0-15,6.7-15,15v167c0,8.3,6.7,15,15,15h385c8.3,0,15-6.7,15-15V23z"/>
+	<rect x="197" y="19" class="st1" width="70" height="28"/>
+	<text transform="matrix(1 0 0 1 197 31.4199)" class="st22 st23">.git</text>
+</g>
+<rect x="229" y="166" class="st1" width="147" height="17"/>
+<text transform="matrix(1 0 0 1 269.4766 174.6279)" class="st24 st25">staging area</text>
+<rect x="464.8" y="179" class="st1" width="147" height="17"/>
+<text transform="matrix(1 0 0 1 511.9414 187.6279)" class="st24 st25">repository</text>
+<rect x="13" y="9" class="st1" width="140" height="23"/>
+<text transform="matrix(1 0 0 1 13 17.52)" class="st26 st25">Working Directory</text>
+<g>
+	
+		<linearGradient id="SVGID_00000083063763450552046370000009513385746614572214_" gradientUnits="userSpaceOnUse" x1="302.499" y1="132.6678" x2="302.499" y2="77.4208" gradientTransform="matrix(1 0 0 -1 0 220)">
+		<stop  offset="9.819999e-02" style="stop-color:#C4C4C4"/>
+		<stop  offset="0.5326" style="stop-color:#686868"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_00000083063763450552046370000009513385746614572214_);stroke:#231F20;stroke-miterlimit:10;" d="
+		M252.5,141.6c0-9.3,22.4-16.8,50-16.8s50,7.5,50,16.8v1c0,0,0-2.1,0-3.1c0-1,0-35.7,0-35.7v0.4c0-9.3-22.4-16.8-50-16.8
+		s-50,7.5-50,16.8v-0.4c0,0,0,34.5,0,35.7c0,1.2,0,3.1,0,3.1V141.6z"/>
+	<g>
+		<path class="st3" d="M352.5,103.7c0,0,0,34.7,0,35.7c0,1,0.4,3.1,0.4,3.1c0,9.3-22.8,16.8-50.4,16.8s-50.4-7.5-50.4-16.8
+			c0,0,0.4-1.9,0.4-3.1c0-1.2,0-35.7,0-35.7c0,9.3,22.4,16.8,50,16.8S352.5,113,352.5,103.7z"/>
+	</g>
+</g>
+<g>
+	
+		<linearGradient id="SVGID_00000165921302763057786420000007749423515115957927_" gradientUnits="userSpaceOnUse" x1="535.899" y1="133.775" x2="535.899" y2="78.528" gradientTransform="matrix(1 0 0 -1 0 220)">
+		<stop  offset="9.819999e-02" style="stop-color:#C4C4C4"/>
+		<stop  offset="0.5326" style="stop-color:#686868"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_00000165921302763057786420000007749423515115957927_);stroke:#231F20;stroke-miterlimit:10;" d="
+		M485.9,140.4c0-9.3,22.4-16.8,50-16.8s50,7.5,50,16.8v1c0,0,0-2.1,0-3.1c0-1,0-35.7,0-35.7v0.4c0-9.3-22.4-16.8-50-16.8
+		c-27.6,0-50,7.5-50,16.8v-0.4c0,0,0,34.5,0,35.7c0,1.2,0,3.1,0,3.1V140.4z"/>
+	<g>
+		<path class="st3" d="M585.9,102.6c0,0,0,34.7,0,35.7c0,1,0.4,3.1,0.4,3.1c0,9.3-22.8,16.8-50.4,16.8c-27.6,0-50.4-7.5-50.4-16.8
+			c0,0,0.4-1.9,0.4-3.1c0-1.2,0-35.7,0-35.7c0,9.3,22.4,16.8,50,16.8S585.9,111.9,585.9,102.6z"/>
+	</g>
+</g>
+<g>
+	<line class="st10" x1="498.9" y1="130.6" x2="572.9" y2="130.6"/>
+	<line class="st10" x1="498.9" y1="136.6" x2="572.9" y2="136.6"/>
+	<line class="st10" x1="498.9" y1="142.6" x2="572.9" y2="142.6"/>
+</g>
+<g>
+	<line class="st10" x1="265.5" y1="130.6" x2="339.5" y2="130.6"/>
+	<line class="st10" x1="265.5" y1="136.6" x2="339.5" y2="136.6"/>
+	<line class="st10" x1="265.5" y1="142.6" x2="339.5" y2="142.6"/>
+</g>
+<rect x="19.5" y="32" class="st4" width="100" height="128"/>
+<rect x="19.5" y="32" class="st5" width="100" height="128"/>
+<line class="st10" x1="32.5" y1="52" x2="106.5" y2="52"/>
+<line class="st10" x1="32.5" y1="58" x2="106.5" y2="58"/>
+<line class="st10" x1="32.5" y1="64" x2="106.5" y2="64"/>
+<line class="st29" x1="32.5" y1="76" x2="106.5" y2="76"/>
+<g>
+	<g>
+		<rect x="137.7" y="81.1" class="st7" width="46" height="30.6"/>
+		<polygon class="st7" points="180.3,65.9 180.3,126.1 220.9,95.5 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 150.8325 98.7161)" class="st22 st25">git add</text>
+</g>
+<g>
+	<polygon class="st3" points="338.7,96.5 279.4,96.5 266.3,111 325.6,111 	"/>
+	<line class="st29" x1="279.4" y1="102.4" x2="328.2" y2="102.4"/>
+</g>
+<g>
+	<g>
+		<rect x="377.6" y="81.1" class="st7" width="46" height="30.6"/>
+		<polygon class="st7" points="420.2,65.9 420.2,126.1 460.8,95.5 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 383.1387 98.7161)" class="st22 st25">git commit</text>
+</g>
+<g>
+	
+		<linearGradient id="SVGID_00000062900551609674739190000000994987683775463041_" gradientUnits="userSpaceOnUse" x1="535.899" y1="171.216" x2="535.899" y2="115.969" gradientTransform="matrix(1 0 0 -1 0 220)">
+		<stop  offset="9.819999e-02" style="stop-color:#C4C4C4"/>
+		<stop  offset="0.5326" style="stop-color:#686868"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_00000062900551609674739190000000994987683775463041_);stroke:#231F20;stroke-miterlimit:10;" d="
+		M485.9,103c0-9.3,22.4-16.8,50-16.8s50,7.5,50,16.8v1c0,0,0-2.1,0-3.1c0-1,0-35.7,0-35.7v0.4c0-9.3-22.4-16.8-50-16.8
+		c-27.6,0-50,7.5-50,16.8v-0.4c0,0,0,34.5,0,35.7c0,1.2,0,3.1,0,3.1V103z"/>
+	<g>
+		<path class="st3" d="M585.9,65.2c0,0,0,34.7,0,35.7c0,1,0.4,3.1,0.4,3.1c0,9.3-22.8,16.8-50.4,16.8c-27.6,0-50.4-7.5-50.4-16.8
+			c0,0,0.4-1.9,0.4-3.1c0-1.2,0-35.7,0-35.7c0,9.3,22.4,16.8,50,16.8S585.9,74.4,585.9,65.2z"/>
+	</g>
+</g>
+<g>
+	<polygon class="st3" points="572.1,54.3 512.8,54.3 499.7,68.8 559,68.8 	"/>
+	<line class="st29" x1="512.8" y1="60.2" x2="561.6" y2="60.2"/>
+</g>
+<g>
+	<line class="st10" x1="501.3" y1="92.7" x2="575.3" y2="92.7"/>
+	<line class="st10" x1="501.3" y1="98.7" x2="575.3" y2="98.7"/>
+	<line class="st10" x1="501.3" y1="104.7" x2="575.3" y2="104.7"/>
+</g>
+</svg>
