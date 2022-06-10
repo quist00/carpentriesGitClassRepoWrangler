@@ -3,6 +3,9 @@
 .REPO
 .token
 .repo
+#ignore support files
+.teams
+.TEAMS
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
