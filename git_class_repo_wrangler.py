@@ -60,10 +60,16 @@ def get_roster(roster_path='roster.csv'):
 
 
 def invite_users(user_list):
-#send invites to list of git usernames in roster file
+#send invites to list of git usernames in roster file and create branches for them
+    repo= get_repo()
     for u in user_list:
         print('inviting {}\n'.format(u))
-        get_repo().add_to_collaborators(u,'push')
+        repo.add_to_collaborators(u,'push')
+
+        #create branches
+        source_branch = 'main'
+        sb = repo.get_branch(source_branch)
+        repo.create_git_ref(ref='refs/heads/' + u, sha=sb.commit.sha)
     print("Notificaitons may be delayed, have users check https://github.com/"+ get_repo_name() +"/invitations")
 
 def create_solo_files():
@@ -78,25 +84,29 @@ def create_solo_files():
         content = f.read()
 
     for u in git_users:
-        repo.create_file('solo/{}.txt'.format(u), 'individual file for {}'.format(u), content)
-
-    # TODO: revise to make it configurable repo.create_file('solo/{}.txt'.format('quist00'), 'individual file for {}'.format('quist00'), content)
+        repo.create_file('solo/{}.txt'.format(u), 'individual file for {}'.format(u), content,branch=u)
 
 def make_solo_files_conclict():
 # put each solo file into a conflicting state
     repo = get_repo()
+    roster = get_roster()
+    git_users = roster['git-username'].to_list()
+
     conflict_string = "### This is an intentional conflict with your solo file. [KEEP THIS]  Resolve by preserving your changes along with anything in brackets on this line.\n"
     file_bytes = ''
-    contents = repo.get_contents("/solo")
-    for content_file in contents:
-    # by default file just appears as hashed array I think, so have to call decode
-        file_bytes= content_file.decoded_content
-    #regex on file bytes requires match in file bytes. To hard to write so convert to string.
-        file_as_string = file_bytes.decode('utf-8')
-    #replace all the author lines with a stock phrase
-        updated_contents= re.sub(r'― Kobayashi Issa.*?\n',conflict_string,file_as_string)
-    #print(updated_contents)
-        repo.update_file(content_file.path, "force conflict with {}".format(content_file.name), updated_contents, content_file.sha, branch="main")
+    for u in git_users:
+        contents = repo.get_contents("/solo",ref=u)
+        #print(contents)
+        for content_file in contents:
+        # by default file just appears as hashed array I think, so have to call decode
+            file_bytes= content_file.decoded_content
+        #regex on file bytes requires match in file bytes. To hard to write so convert to string.
+            file_as_string = file_bytes.decode('utf-8')
+        #replace all the author lines with a stock phrase
+            updated_contents= re.sub(r'― Kobayashi Issa.*?\n',conflict_string,file_as_string)
+            #print(updated_contents)
+        #print(updated_contents)
+            repo.update_file(content_file.path, "force conflict with {}".format(content_file.name), updated_contents, content_file.sha, branch=u)
 
 # divides a list into n sized chunks
 # 
