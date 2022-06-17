@@ -12,7 +12,9 @@
 * can change number of known lines in all team files to make a conflict they have to resolve. 
 
 ## What it should do.
-???
+* Maybe it shoul be able to get the roster straight from evenbrite or other registration platform.
+* It needs to be better about handling existing file or existing branches.
+
 
      
 ## Required files
