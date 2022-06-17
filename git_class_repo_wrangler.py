@@ -121,6 +121,7 @@ def get_teams():
 
 def make_teams():
 #randomize list
+    repo = get_repo()
     roster = get_roster()
     git_users = roster['git-username'].to_list()
     random.shuffle(git_users)
@@ -136,6 +137,14 @@ def make_teams():
 
     pickle.dump( teams, open( ".teams", "wb" ) )
     print(teams)
+    #make branches for each team
+    #create branches
+    print('creating teams\n')
+    for t in teams: 
+        member_names = '-'.join(t)  
+        source_branch = 'main'
+        sb = repo.get_branch(source_branch)
+        repo.create_git_ref(ref='refs/heads/' + member_names, sha=sb.commit.sha)
  
 def make_team_files():
 # make a file for each team based on their usernames
@@ -143,9 +152,6 @@ def make_team_files():
     if not teams:
         print("you must first create the teams")
         return
-    #first clear out all team files
-    #delete_team_files()
-
 
     repo = get_repo()
     
@@ -156,39 +162,50 @@ def make_team_files():
 
     for t in teams:
         member_names = '-'.join(t)
-        repo.create_file('teams/{}.txt'.format(member_names), 'team file for{}'.format(member_names), content)
+        repo.create_file('teams/{}.txt'.format(member_names), 'team file for{}'.format(member_names), content, branch=member_names)
    
 def make_team_files_conflict():
 # put team files into a conflicting state
     repo = get_repo()
+    teams = pickle.load( open( ".teams", "rb" ) )  
     conflict_string = "### This is an intentional conflict. [KEEP THIS]  Resolve by preserving your changes along with anything in brackets on this line.\n"
     file_bytes = ''
-    contents = repo.get_contents("/teams")
-    for content_file in contents:
-        # by default file just appears as hashed array I think, so have to call decode
-        file_bytes= content_file.decoded_content
-        #regex on file bytes requires match in file bytes. Too hard to write so convert to string.
-        file_as_string = file_bytes.decode('utf-8')
-        #replace all the author lines with a stock phrase
-        updated_contents= re.sub(r'― Kobayashi Issa.*?\n',conflict_string,file_as_string)
-        #print(updated_contents)
-        repo.update_file(content_file.path, "force conflict with {}".format(content_file.name), updated_contents, content_file.sha, branch="main")
+
+    for t in teams:
+        member_names = '-'.join(t)
+        contents = repo.get_contents("/teams",ref=member_names)
+        for content_file in contents:
+            # by default file just appears as hashed array I think, so have to call decode
+            file_bytes= content_file.decoded_content
+            #regex on file bytes requires match in file bytes. Too hard to write so convert to string.
+            file_as_string = file_bytes.decode('utf-8')
+            #replace all the author lines with a stock phrase
+            updated_contents= re.sub(r'― Kobayashi Issa.*?\n',conflict_string,file_as_string)
+            #print(updated_contents)
+            repo.update_file(content_file.path, "force conflict with {}".format(content_file.name), updated_contents, content_file.sha, branch=member_names)
 
 def delete_solo_files():
 # delete all files in solo
     repo = get_repo()
-    contents = repo.get_contents("/solo")
-    for content_file in contents:
-        repo.delete_file(content_file.path, "remove file from solo folder", content_file.sha, branch="main")
+    roster = get_roster()
+    git_users = roster['git-username'].to_list()
+
+    for u in git_users:
+        contents = repo.get_contents("/solo",ref=u)
+        for content_file in contents:
+            repo.delete_file(content_file.path, "remove file from solo folder", content_file.sha, branch=u)
 
     #repo.create_file("/solo/.keep_folder", "empty file to help create the directory", "", branch="main")
 
 def delete_team_files():
 # delete all files in teams
     repo = get_repo()
-    contents = repo.get_contents("/teams")
-    for content_file in contents:
-        repo.delete_file(content_file.path, "remove file from teams folder", content_file.sha, branch="main")
+    teams = pickle.load( open( ".teams", "rb" ) )  
+    for t in teams:
+        member_names = '-'.join(t)
+        contents = repo.get_contents("/teams",ref=member_names)
+        for content_file in contents:
+            repo.delete_file(content_file.path, "remove file from teams folder", content_file.sha, branch=member_names)
 
     #repo.create_file("/teams/.keep_folder", "empty file to help create the directory", "", branch="main")
 
