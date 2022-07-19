@@ -28,6 +28,14 @@ for repo in g.get_user().get_repos():
 #get a handle to class repo
 repo = g.get_repo("quist00/2021-03-23-STROBE-git-class")
 print(repo.name)
+source_branch = 'main'
+target_branch = 'newfeature'
+
+sb = repo.get_branch(source_branch)
+repo.create_git_ref(ref='refs/heads/' + target_branch, sha=sb.commit.sha)
+print(list(repo.get_branches()))
+
+
 
 #%%
 #send invites to list of git usernames in roster file
@@ -50,7 +58,12 @@ with open('haikus.txt','r') as f:
     content = f.read()
 
 for u in git_users:
-    repo.create_file('solo/{}.txt'.format(u), 'individual file for{}'.format(u), content)
+    # source_branch = 'main'
+    # sb = repo.get_branch(source_branch)
+    # repo.create_git_ref(ref='refs/heads/' + u, sha=sb.commit.sha)
+
+    repo.create_file('solo/{}.txt'.format(u), 'individual file for{}'.format(u), content,branch=u)
+#print(list(repo.get_branches()))
 #%%
 # put each solo file into a conflicting state
 conflict_string = "### This is an intentional conflict with your solo file. [KEEP THIS]  Resolve by preserving your changes along with anything in brackets on this line.\n"
