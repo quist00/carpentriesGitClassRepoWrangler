@@ -13,6 +13,8 @@
 
 ## What it should do.
 * Maybe it shoul be able to get the roster straight from evenbrite or other registration platform.
+    * https://www.eventbrite.com/support/articles/en_US/How_To/how-to-create-custom-questions-for-attendees?lg=en_US
+    * https://www.eventbrite.com/platform/api#/introduction/about-our-api
 * It needs to be better about handling existing file or existing branches.
 
 
