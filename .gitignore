@@ -1,5 +1,6 @@
 # ignore toke file storing personal access token
 .TOKEN
+.EVITE_TOKEN
 .REPO
 .token
 .repo
