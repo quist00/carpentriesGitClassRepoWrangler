@@ -91,8 +91,7 @@ def make_solo_files_conclict():
     repo = get_repo()
     roster = get_roster()
     git_users = roster['git-username'].to_list()
-
-    conflict_string = "### This is an intentional conflict with your solo file. [KEEP THIS]  Resolve by preserving your changes along with anything in brackets on this line.\n"
+    conflict_string = "― Kobayashi Issa [b. June 15, 1763], loose translation/interpretation by Michael R. Burch\n"
     file_bytes = ''
     for u in git_users:
         contents = repo.get_contents("/solo",ref=u)
@@ -168,7 +167,7 @@ def make_team_files_conflict():
 # put team files into a conflicting state
     repo = get_repo()
     teams = pickle.load( open( ".teams", "rb" ) )  
-    conflict_string = "### This is an intentional conflict. [KEEP THIS]  Resolve by preserving your changes along with anything in brackets on this line.\n"
+    conflict_string = "― Kobayashi Issa [b. June 15, 1763], loose translation/interpretation by Michael R. Burch\n"
     file_bytes = ''
 
     for t in teams:
