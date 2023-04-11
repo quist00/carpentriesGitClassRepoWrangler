@@ -5,6 +5,7 @@ import random
 #import time
 import re
 import pickle
+import sys
 
 
 def get_repo():
@@ -12,9 +13,7 @@ def get_repo():
     # act as me using my personal access token
     repo_owner = Github(TOKEN)
     #get a handle to class repo
-    #repo = repo_owner.get_repo("quist00/2021-03-23-STROBE-git-class")
     repo = repo_owner.get_repo(get_repo_name())
-    #print("Getting handle to",repo.name)
     return repo
 
 def get_status():
@@ -42,15 +41,43 @@ def get_status():
     print(collaboratros_df.set_index('login').sort_index())
 
 
-def get_token():
-    with open('.TOKEN','r') as f:
-        #TOKEN = f.read()
-        return f.read()
+def get_token() -> str:
+    '''
+    This function gets the token from the .TOKEN file.
+    '''
+    try:
+        with open('.TOKEN','r') as token_file:
+            return token_file.read().strip()
+    except FileNotFoundError:
+        print('No .TOKEN file found. Exiting...')
+        sys.exit(1)
+    except PermissionError:
+        print("You don't have the necessary permissions to read the .TOKEN file. Exiting...")
+        sys.exit(1)
+    except:
+        print('Something went wrong. Exiting...')
+        sys.exit(1)
 
-def get_repo_name():
-    with open('.REPO','r') as f:
-        #TOKEN = f.read()
-        return f.read()
+
+
+def get_repo_name() -> str:
+    '''
+    This function gets the name of the current repository from the .REPO file.
+    '''
+    try:
+        with open('.REPO','r') as repo_file:
+            return repo_file.read().strip()
+    except FileNotFoundError:
+        print('No .REPO file found. Exiting...')
+        sys.exit(1)
+    except PermissionError:
+        print("You don't have the necessary permissions to read the .REPO file. Exiting...")
+        sys.exit(1)
+    except:
+        print('Something went wrong. Exiting...')
+        sys.exit(1)
+
+
 
 def get_roster(roster_path='roster.csv'):
     """ This prints out contents of the roster file."""
