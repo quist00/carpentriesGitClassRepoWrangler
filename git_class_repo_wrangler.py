@@ -1,44 +1,66 @@
 import pandas as pd
-from github import Github
+from github import Github, Repository,GithubException
 #import shutil
 import random
 #import time
 import re
 import pickle
 import sys
+import os
 
-
-def get_repo():
+def get_repo() -> Repository:
+    '''
+    This function returns a handle to the class repository found in the .REPO file.
+    It uses the token found in the .TOKEN file to access the repository via the github API.
+    '''
     TOKEN = get_token()
+    if TOKEN is None:
+        raise Exception("No token found")
     # act as me using my personal access token
     repo_owner = Github(TOKEN)
-    #get a handle to class repo
-    repo = repo_owner.get_repo(get_repo_name())
+    # get a handle to class repo
+    repo_name = get_repo_name()
+    if repo_name is None:
+        raise Exception("No repo name found")
+    repo = repo_owner.get_repo(repo_name)
+    if repo is None:
+        raise Exception("No repo found")
     return repo
 
 def get_status():
-    """ This returns status information abou the repo including: invites, collaborators
+    """ This returns status information about the repo including: invites, collaborators
     """
-    #invitees = []
-    #collaborators = {}
     status = ""
-#print out pending invites and collaborators
-    repo = get_repo()
-    print("Invites")
-    print("*******************************")
-    invitations = repo.get_pending_invitations()
-    logins_invite = [i.invitee.login for i in invitations]
-    names_invite = [i.invitee.name for i in invitations]
-    invitees_df = pd.DataFrame.from_dict({'login':logins_invite, 'name':names_invite})
-    print(invitees_df.set_index('login').sort_index())
+    try:
+        #print out pending invites and collaborators
+        repo = get_repo()
+        print("Invites")
+        print("*******************************")
+        invitations = repo.get_pending_invitations()
+        logins_invite = [i.invitee.login for i in invitations]
+        names_invite = [i.invitee.name for i in invitations]
+        invitees_df = pd.DataFrame.from_dict({'login':logins_invite, 'name':names_invite})
+        print(invitees_df.set_index('login').sort_index())
+    except Exception as e:
+        print(f"Error: {e}")
+        print(f"Error getting invites")
 #print out collaborators
-    print("\n\nCollaborators")
-    print("*******************************")
-    collaborators = repo.get_collaborators()
-    logins = [c.login for c in collaborators]
-    names = [c.name for c in collaborators]
-    collaboratros_df = pd.DataFrame.from_dict({'login':logins, 'name':names})
-    print(collaboratros_df.set_index('login').sort_index())
+    try:
+        print("\n\nCollaborators")
+        print("*******************************")
+        collaborators = repo.get_collaborators()
+        logins = [c.login for c in collaborators]
+        names = [c.name for c in collaborators]
+        collaboratros_df = pd.DataFrame.from_dict({'login':logins, 'name':names})
+        print(collaboratros_df.set_index('login').sort_index())
+    except GithubException as e:
+        print(f"Error: {e}")
+        print(f"Error getting collaborators")
+        print(f"Error code: {e.status}")
+        print(f"Error data: {e.data}")
+    except Exception as e:
+        print(f"Error: {e}")
+        print(f"Error getting collaborators")
 
 
 def get_token() -> str:
@@ -79,8 +101,16 @@ def get_repo_name() -> str:
 
 
 
-def get_roster(roster_path='roster.csv'):
-    """ This prints out contents of the roster file."""
+
+def get_roster(roster_path: str = 'roster.csv') -> pd.DataFrame:
+    """ This function reads in a csv file and returns it as a pandas dataframe """
+    # Check that the file exists
+    if not os.path.exists(roster_path):
+        raise FileNotFoundError("Roster file not found")
+    # Check that the file is a csv
+    if not roster_path.endswith('.csv'):
+        raise TypeError("Roster file must be a .csv")
+    # Read in the file
     roster = pd.read_csv(roster_path)
     return(roster)
 
